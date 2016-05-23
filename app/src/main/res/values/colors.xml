@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="movie_title_color">#26A69A</color>
+    <color name="genre_tag_color">#c6f2ee</color>
+
+</resources>
