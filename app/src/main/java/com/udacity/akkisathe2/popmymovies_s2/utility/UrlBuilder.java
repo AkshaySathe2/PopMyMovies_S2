@@ -76,7 +76,7 @@ public class UrlBuilder {
         return builder.build().toString();
     }
 
-    public static String buildMovietrailerUrl(String movieId) {
+    public static String buildMovieTrailerUrl(String movieId) {
         Uri.Builder builder = new Uri.Builder();
         builder.scheme("https")
                 .authority(baseUrl)

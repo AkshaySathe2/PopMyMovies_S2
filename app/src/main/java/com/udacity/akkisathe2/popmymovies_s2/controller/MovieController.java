@@ -25,6 +25,13 @@ public class MovieController {
 
     }
 
+    public String fetchTrailer(String movieId) {
+        String url = UrlBuilder.buildMovieTrailerUrl(movieId);
+        return fetchData(url);
+
+    }
+
+
     private String fetchData(String url) {
         Dataloader dataloader = new Dataloader();
         return dataloader.fetchData(url);
