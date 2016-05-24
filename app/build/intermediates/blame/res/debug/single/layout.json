@@ -104,6 +104,10 @@
         "source": "D:\\Akshay\\Udacity\\PopMyMovies_S2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
+        "merged": "D:\\Akshay\\Udacity\\PopMyMovies_S2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\single_review.xml",
+        "source": "D:\\Akshay\\Udacity\\PopMyMovies_S2\\app\\src\\main\\res\\layout\\single_review.xml"
+    },
+    {
         "merged": "D:\\Akshay\\Udacity\\PopMyMovies_S2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
         "source": "D:\\Akshay\\Udacity\\PopMyMovies_S2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_icon.xml"
     },

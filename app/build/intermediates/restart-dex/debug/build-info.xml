@@ -4,26 +4,26 @@
     api-level="16"
     density="hdpi"
     format="7"
-    timestamp="781958779737638" >
+    timestamp="883606095773292" >
 
     <task
         name="javac"
-        duration="1667" />
+        duration="267" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="370" />
+        duration="74" />
     <task
         name="verifier"
-        duration="194" />
+        duration="7" />
 
     <artifact
         location="D:\Akshay\Udacity\PopMyMovies_S2\app\build\outputs\apk\app-debug.apk"
         type="MAIN" />
 
-    <build timestamp="781958779737638" >
+    <build timestamp="883606095773292" >
         <artifact
             location="D:\Akshay\Udacity\PopMyMovies_S2\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
