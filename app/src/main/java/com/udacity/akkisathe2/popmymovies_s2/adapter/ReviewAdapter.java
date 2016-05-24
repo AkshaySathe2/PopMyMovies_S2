@@ -69,7 +69,6 @@ public class ReviewAdapter extends BaseAdapter {
         viewHolder.reviewerName.setText(reviewsList.get(position).getAuthor());
         if (position % 2 == 0) {
             viewHolder.review.setBackgroundResource(R.color.light_gray);
-            Log.d("Review Adapter","position true for "+position+"  "+(position % 2)+"  "+(position % 2 == 0));
         }
 
         return convertView;
