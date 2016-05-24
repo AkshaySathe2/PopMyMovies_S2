@@ -16,6 +16,7 @@ import android.widget.GridView;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import com.google.gson.Gson;
 import com.squareup.picasso.Picasso;
@@ -44,7 +45,7 @@ public class MovieDetailFragment extends Fragment {
     ImageView poster;
     TextView movieYear;
     TextView voteAverage;
-    TextView review;
+    TextView review,trailer;
     ImageView adultIcon;
     private TextView tagline;
     LinearLayout genre;
@@ -86,6 +87,7 @@ public class MovieDetailFragment extends Fragment {
         movieYear = (TextView) moviePosterDetails.findViewById(R.id.txt_movie_year);
         voteAverage = (TextView) moviePosterDetails.findViewById(R.id.txt_movie_rating);
         review = (TextView) view.findViewById(R.id.txt_review_icon);
+        trailer = (TextView) view.findViewById(R.id.txt_trailers);
         adultIcon=(ImageView)moviePosterDetails.findViewById(R.id.img_adult);
         //genre=(LinearLayout) view.findViewById(R.id.ll_genre_tags);
 
@@ -94,21 +96,41 @@ public class MovieDetailFragment extends Fragment {
         review.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                AlertDialog.Builder dialog = new AlertDialog.Builder(getActivity());
-                dialog.setTitle("Reviews");
-                final ReviewAdapter adapter = new ReviewAdapter(
-                        getActivity(), movie.getReviews());
-                dialog.setAdapter(adapter, new DialogInterface.OnClickListener() {
+                if (movie.getReviews().size() > 0) {
+                    AlertDialog.Builder dialog = new AlertDialog.Builder(getActivity());
+                    dialog.setTitle("Reviews");
+                    final ReviewAdapter adapter = new ReviewAdapter(
+                            getActivity(), movie.getReviews());
+                    dialog.setAdapter(adapter, new DialogInterface.OnClickListener() {
 
-                    @Override
-                    public void onClick(DialogInterface dialog, int which) {
+                        @Override
+                        public void onClick(DialogInterface dialog, int which) {
 
-                    }
-                });
-                dialog.setNegativeButton("Cancel", null);
-                dialog.show();
+                        }
+                    });
+                    dialog.setNegativeButton("Cancel", null);
+                    dialog.show();
+                }
+                else{
+                    Toast.makeText(mContext,"No review available",Toast.LENGTH_SHORT).show();
+                }
             }
         });
+
+        trailer.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+
+            }
+        });
+
+        trailer.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+
+            }
+        });
+
 
         FetchMovieData data=new FetchMovieData();
         data.execute(movieId);
