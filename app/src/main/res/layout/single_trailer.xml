@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:padding="@dimen/normal_padding">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/video_icon" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/txt_trailer_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Akshay Sathe"
+            android:textSize="@dimen/movie_heading" />
+        <TextView
+            android:id="@+id/txt_trailer_site"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/txt_trailer_name"
+            android:text="Youtube"
+            android:textSize="@dimen/normal_text_size"
+            android:textColor="#939393"/>
+        <TextView
+            android:id="@+id/txt_trailer_type"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Youtube"
+            android:textSize="@dimen/normal_text_size"
+            android:textColor="#939393"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="20dp"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:padding="@dimen/normal_padding"
+            android:background="@color/gray"/>
+    </RelativeLayout>
+
+</LinearLayout>
