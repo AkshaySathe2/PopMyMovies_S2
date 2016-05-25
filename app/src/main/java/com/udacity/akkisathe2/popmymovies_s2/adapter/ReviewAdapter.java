@@ -75,6 +75,8 @@ public class ReviewAdapter extends BaseAdapter {
     }
 
 
+
+
     private class ViewHolder {
 
         TextView reviewerName;

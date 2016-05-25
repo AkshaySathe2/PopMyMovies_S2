@@ -1,8 +1,11 @@
 package com.udacity.akkisathe2.popmymovies_s2.fragment;
 
 import android.app.ProgressDialog;
+import android.content.ActivityNotFoundException;
 import android.content.Context;
 import android.content.DialogInterface;
+import android.content.Intent;
+import android.net.Uri;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
@@ -22,6 +25,7 @@ import com.google.gson.Gson;
 import com.squareup.picasso.Picasso;
 import com.udacity.akkisathe2.popmymovies_s2.R;
 import com.udacity.akkisathe2.popmymovies_s2.adapter.ReviewAdapter;
+import com.udacity.akkisathe2.popmymovies_s2.adapter.TrailerAdapter;
 import com.udacity.akkisathe2.popmymovies_s2.controller.MovieController;
 import com.udacity.akkisathe2.popmymovies_s2.model.Movie;
 import com.udacity.akkisathe2.popmymovies_s2.model.Review;
@@ -120,16 +124,32 @@ public class MovieDetailFragment extends Fragment {
         trailer.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                AlertDialog.Builder dialog = new AlertDialog.Builder(getActivity());
+                dialog.setTitle("Trailers");
+                final TrailerAdapter adapter = new TrailerAdapter(
+                        getActivity(), movie.getTrailers());
+                dialog.setAdapter(adapter, new DialogInterface.OnClickListener() {
 
+                    @Override
+                    public void onClick(DialogInterface dialog, int which) {
+                        Trailer t=movie.getTrailers().get(which);
+                        if (t.getSite().equalsIgnoreCase("youtube")) {
+                            try {
+                                Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse("vnd.youtube:" + t.getKey()));// Checking if youtube app is present
+                                startActivity(intent);
+                            } catch (ActivityNotFoundException ex) {//If an exception is thrown means no youtube app
+                                Intent intent = new Intent(Intent.ACTION_VIEW,
+                                        Uri.parse("http://www.youtube.com/watch?v=" + t.getKey()));
+                                startActivity(intent);
+                            }
+                        }
+                    }
+                });
+                dialog.setNegativeButton("Cancel", null);
+                dialog.show();
             }
         });
 
-        trailer.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-
-            }
-        });
 
 
         FetchMovieData data=new FetchMovieData();
