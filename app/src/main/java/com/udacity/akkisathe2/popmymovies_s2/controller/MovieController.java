@@ -1,6 +1,7 @@
 package com.udacity.akkisathe2.popmymovies_s2.controller;
 
 import com.udacity.akkisathe2.popmymovies_s2.loader.Dataloader;
+import com.udacity.akkisathe2.popmymovies_s2.model.Movie;
 import com.udacity.akkisathe2.popmymovies_s2.utility.UrlBuilder;
 
 /**
@@ -35,6 +36,13 @@ public class MovieController {
     private String fetchData(String url) {
         Dataloader dataloader = new Dataloader();
         return dataloader.fetchData(url);
+    }
+
+    public Boolean addMovieToFavourites(Movie m){
+
+
+
+        return true;
     }
 
 }

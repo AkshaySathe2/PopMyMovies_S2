@@ -18,6 +18,7 @@ import android.widget.Button;
 import android.widget.GridView;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
+import android.widget.RelativeLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -49,7 +50,7 @@ public class MovieDetailFragment extends Fragment {
     ImageView poster;
     TextView movieYear;
     TextView voteAverage;
-    TextView review,trailer;
+    RelativeLayout review,trailer;
     ImageView adultIcon;
     private TextView tagline;
     LinearLayout genre;
@@ -87,12 +88,14 @@ public class MovieDetailFragment extends Fragment {
         tagline=(TextView)view.findViewById(R.id.txt_movie_tagline);
         overview = (TextView) view.findViewById(R.id.txt_movie_overview);
         LinearLayout moviePosterDetails = (LinearLayout) view.findViewById(R.id.ll_movie_poster_details);
-        poster = (ImageView) moviePosterDetails.findViewById(R.id.img_movie_poster);
+        poster = (ImageView) view.findViewById(R.id.img_movie_poster);
         movieYear = (TextView) moviePosterDetails.findViewById(R.id.txt_movie_year);
         voteAverage = (TextView) moviePosterDetails.findViewById(R.id.txt_movie_rating);
-        review = (TextView) view.findViewById(R.id.txt_review_icon);
-        trailer = (TextView) view.findViewById(R.id.txt_trailers);
+        review = (RelativeLayout) view.findViewById(R.id.rel_reviews);
+        trailer = (RelativeLayout) view.findViewById(R.id.rel_trailers);
         adultIcon=(ImageView)moviePosterDetails.findViewById(R.id.img_adult);
+        //markAsFavourite=(TextView)view.findViewById(R.id.txt_mark_as_favourite);
+
         //genre=(LinearLayout) view.findViewById(R.id.ll_genre_tags);
 
         /*gridGenre=(GridView)view.findViewById(R.id.grid_genre_tags);*/
@@ -149,6 +152,16 @@ public class MovieDetailFragment extends Fragment {
                 dialog.show();
             }
         });
+
+        /*markAsFavourite.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                MovieController controller=new MovieController();
+                controller.addMovieToFavourites(movie);
+            }
+        });*/
+
+
 
 
 
@@ -228,7 +241,7 @@ public class MovieDetailFragment extends Fragment {
         title.setText(movie.getTitle());
         tagline.setText(movie.getTagline());
         overview.setText(movie.getOverview());
-        Picasso.with(mContext).load(UrlBuilder.buildPosterUrl("w185") + movie.getPosterPath()).into(poster);
+        Picasso.with(mContext).load(UrlBuilder.buildPosterUrl("w780") + movie.getBackdropPath()).placeholder(R.drawable.icon_dummy_movie).error(R.drawable.icon_dummy_movie).into(poster);
         movieYear.setText(movie.getReleaseDate());
         voteAverage.setText(getString(R.string.total_rating, movie.getVoteAverage()));
         if(Boolean.valueOf(movie.getAdult()))
