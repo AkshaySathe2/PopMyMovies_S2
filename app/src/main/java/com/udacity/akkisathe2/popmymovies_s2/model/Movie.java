@@ -73,9 +73,19 @@ public class Movie
     @SerializedName("revenue")
     private String revenue;
 
+    private Boolean isAddedToFavourites;
+
     private List<Review> reviews;
 
     private List<Trailer> trailers;
+
+    public Boolean getAddedToFavourites() {
+        return isAddedToFavourites;
+    }
+
+    public void setAddedToFavourites(Boolean addedToFavourites) {
+        isAddedToFavourites = addedToFavourites;
+    }
 
     public List<Review> getReviews() {
         return reviews;
@@ -273,6 +283,8 @@ public class Movie
         }
         return genreString;
     }
+
+
 
     @Override
     public String toString()

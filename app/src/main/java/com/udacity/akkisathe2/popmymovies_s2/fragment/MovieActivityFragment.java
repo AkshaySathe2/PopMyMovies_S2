@@ -149,7 +149,7 @@ public class MovieActivityFragment extends Fragment {
             String[] p = new String[]{"success"};
             try {
                 if (Util.hasActiveInternetConnection(getContext())) {
-                    MovieController controller = new MovieController();
+                    MovieController controller = new MovieController(mContext);
                     String jsonString = controller.fetchMovieList(Util.getSortByChoice(getContext()), params[0]);
                     if (!(jsonString == null || jsonString.trim().equals(""))) {
                         JSONObject object = new JSONObject(jsonString);
