@@ -20,6 +20,7 @@ public class MovieController {
     }
 
     public String fetchMovieList(String sortBy, String page) {
+
         String url = UrlBuilder.buildMovieListUrl(sortBy, page);
         return fetchData(url);
     }

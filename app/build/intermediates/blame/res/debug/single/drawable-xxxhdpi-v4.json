@@ -4,6 +4,10 @@
         "source": "D:\\Akshay\\Udacity\\PopMyMovies_S2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
     },
     {
+        "merged": "D:\\Akshay\\Udacity\\PopMyMovies_S2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\icon_deselected_star_transparent.gif",
+        "source": "D:\\Akshay\\Udacity\\PopMyMovies_S2\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_deselected_star_transparent.gif"
+    },
+    {
         "merged": "D:\\Akshay\\Udacity\\PopMyMovies_S2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
         "source": "D:\\Akshay\\Udacity\\PopMyMovies_S2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_btn_radio_to_on_mtrl_000.png"
     },
@@ -14,6 +18,10 @@
     {
         "merged": "D:\\Akshay\\Udacity\\PopMyMovies_S2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
         "source": "D:\\Akshay\\Udacity\\PopMyMovies_S2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Akshay\\Udacity\\PopMyMovies_S2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\icon_right_arrow.png",
+        "source": "D:\\Akshay\\Udacity\\PopMyMovies_S2\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_right_arrow.png"
     },
     {
         "merged": "D:\\Akshay\\Udacity\\PopMyMovies_S2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
@@ -28,8 +36,8 @@
         "source": "D:\\Akshay\\Udacity\\PopMyMovies_S2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_btn_check_to_on_mtrl_015.png"
     },
     {
-        "merged": "D:\\Akshay\\Udacity\\PopMyMovies_S2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
-        "source": "D:\\Akshay\\Udacity\\PopMyMovies_S2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+        "merged": "D:\\Akshay\\Udacity\\PopMyMovies_S2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\icon_dummy_movie_1.jpg",
+        "source": "D:\\Akshay\\Udacity\\PopMyMovies_S2\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_dummy_movie_1.jpg"
     },
     {
         "merged": "D:\\Akshay\\Udacity\\PopMyMovies_S2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
@@ -38,6 +46,18 @@
     {
         "merged": "D:\\Akshay\\Udacity\\PopMyMovies_S2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
         "source": "D:\\Akshay\\Udacity\\PopMyMovies_S2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Akshay\\Udacity\\PopMyMovies_S2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\icon_deselected_star.png",
+        "source": "D:\\Akshay\\Udacity\\PopMyMovies_S2\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_deselected_star.png"
+    },
+    {
+        "merged": "D:\\Akshay\\Udacity\\PopMyMovies_S2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\video_icon.png",
+        "source": "D:\\Akshay\\Udacity\\PopMyMovies_S2\\app\\src\\main\\res\\drawable-xxxhdpi\\video_icon.png"
+    },
+    {
+        "merged": "D:\\Akshay\\Udacity\\PopMyMovies_S2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "D:\\Akshay\\Udacity\\PopMyMovies_S2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
         "merged": "D:\\Akshay\\Udacity\\PopMyMovies_S2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
@@ -50,6 +70,10 @@
     {
         "merged": "D:\\Akshay\\Udacity\\PopMyMovies_S2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
         "source": "D:\\Akshay\\Udacity\\PopMyMovies_S2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Akshay\\Udacity\\PopMyMovies_S2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\icon_selected_star.png",
+        "source": "D:\\Akshay\\Udacity\\PopMyMovies_S2\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_selected_star.png"
     },
     {
         "merged": "D:\\Akshay\\Udacity\\PopMyMovies_S2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
@@ -78,6 +102,10 @@
     {
         "merged": "D:\\Akshay\\Udacity\\PopMyMovies_S2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
         "source": "D:\\Akshay\\Udacity\\PopMyMovies_S2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Akshay\\Udacity\\PopMyMovies_S2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\icon_dummy_movie.jpg",
+        "source": "D:\\Akshay\\Udacity\\PopMyMovies_S2\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_dummy_movie.jpg"
     },
     {
         "merged": "D:\\Akshay\\Udacity\\PopMyMovies_S2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\adult.9.png",

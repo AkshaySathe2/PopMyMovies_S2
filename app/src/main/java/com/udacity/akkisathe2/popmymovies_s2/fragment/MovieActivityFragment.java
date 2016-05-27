@@ -1,13 +1,18 @@
 package com.udacity.akkisathe2.popmymovies_s2.fragment;
 
 import android.app.ProgressDialog;
+import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
+import android.content.IntentFilter;
 import android.os.AsyncTask;
+import android.os.Parcelable;
 import android.provider.Settings;
 import android.support.v4.app.Fragment;
 import android.os.Bundle;
 import android.support.v4.app.FragmentTransaction;
+import android.support.v4.content.LocalBroadcastManager;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.Menu;
 import android.view.MenuInflater;
@@ -41,13 +46,14 @@ import java.util.List;
 public class MovieActivityFragment extends Fragment {
 
     GridView listMovie;
-    List<Movie> movieList;
+    static List<Movie> movieList;
     static int page = 1;
     private Context mContext;
     FetchMovieData task;
     ProgressDialog dialog;
     private boolean isLoading;
-    int visibleItemNumber=0;
+    int visibleItemNumber = 0;
+
     public MovieActivityFragment() {
     }
 
@@ -58,7 +64,7 @@ public class MovieActivityFragment extends Fragment {
         mContext = getContext();
         movieList = new ArrayList();
         View rootView = inflater.inflate(R.layout.fragment_movie, container, false);
-        Util.setSortByChoice(getContext(),UrlBuilder.sortByPopular);
+        Util.setSortByChoice(getContext(), UrlBuilder.sortByPopular);
         listMovie = (GridView) rootView.findViewById(R.id.grid_movie);
         listMovie.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
@@ -69,13 +75,17 @@ public class MovieActivityFragment extends Fragment {
                 fragmentTransaction.replace(R.id.movieActivity, fragment).addToBackStack("MovieActivityFragment").commit();
             }
         });
+
+        LocalBroadcastManager.getInstance(mContext).registerReceiver(mMessageReceiver,
+                new IntentFilter("Favourites Event"));
+
         listMovie.setOnScrollListener(new AbsListView.OnScrollListener() {
             @Override
             public void onScroll(AbsListView view, int firstVisibleItem, int visibleItemCount, int totalItemCount) {
                 if (!isLoading) {
-                    if (firstVisibleItem + visibleItemCount >= totalItemCount && totalItemCount != 0 && totalItemCount != visibleItemCount) {
+                    if (firstVisibleItem + visibleItemCount >= totalItemCount && totalItemCount != 0 && totalItemCount != visibleItemCount && !Util.getSortByChoice(getContext()).equals(UrlBuilder.sortByFavourites)) {
                         // End has been reached
-                        visibleItemNumber=firstVisibleItem;
+                        visibleItemNumber = firstVisibleItem;
                         //Toast.makeText(getContext(), "End reached", Toast.LENGTH_SHORT).show();
                         task = new FetchMovieData();
                         task.execute(String.valueOf(page++));
@@ -88,16 +98,61 @@ public class MovieActivityFragment extends Fragment {
 
             }
         });
-        if (Util.isNetworkAvailable(getContext())) {
-            task = new FetchMovieData();
-            task.execute(String.valueOf(page++));
-        } else {
-            Toast.makeText(getContext(), "Exiting app. Please turn ON internet settings", Toast.LENGTH_SHORT).show();
-            Intent settingsIntent = new Intent(Settings.ACTION_SETTINGS);
-            getActivity().startActivityForResult(settingsIntent, 9003);
-            getActivity().finish();
+        if(savedInstanceState==null) {
+            if (Util.isNetworkAvailable(getContext())) {
+                task = new FetchMovieData();
+                task.execute(String.valueOf(page++));
+            } else {
+                Toast.makeText(getContext(), "Exiting app. Please turn ON internet settings", Toast.LENGTH_SHORT).show();
+                Intent settingsIntent = new Intent(Settings.ACTION_SETTINGS);
+                getActivity().startActivityForResult(settingsIntent, 9003);
+                getActivity().finish();
+            }
+        }
+        else{
+            Log.d("MovieActivityFragment","Was in on saved instance state");
+            movieList=savedInstanceState.getParcelableArrayList("movieList");
+            updateUI();
         }
         return rootView;
+    }
+
+    @Override
+    public void onSaveInstanceState(Bundle outState) {
+        super.onSaveInstanceState(outState);
+        if(movieList!=null)
+        {
+            outState.putParcelableArrayList("movieList", (ArrayList<? extends Parcelable>) movieList);
+        }
+    }
+
+    public BroadcastReceiver mMessageReceiver = new BroadcastReceiver() {
+        @Override
+        public void onReceive(Context context, Intent intent) {
+            // Get extra data included in the Intent
+            if(Util.getSortByChoice(getContext()).equals(UrlBuilder.sortByFavourites))
+            {
+                if(intent.hasExtra("MovieId"))
+                {
+                    String movieId=intent.getStringExtra("MovieId");
+                    for(int i=0;i<movieList.size();i++)
+                    {
+                        if(movieList.get(i).getId().equals(movieId)) {
+                            movieList.remove(i);
+                            break;
+                        }
+                    }
+                }
+            }
+            updateUI();
+        }
+    };
+
+    @Override
+    public void onDestroy() {
+        // Unregister since the activity is about to be closed.
+        LocalBroadcastManager.getInstance(mContext).unregisterReceiver(mMessageReceiver);
+        super.onDestroy();
     }
 
     @Override
@@ -111,17 +166,25 @@ public class MovieActivityFragment extends Fragment {
         switch (id) {
             case R.id.action_sort_by_top_rated:
                 movieList.clear();
-                page=1;
-                visibleItemNumber=0;
+                page = 1;
+                visibleItemNumber = 0;
                 Util.setSortByChoice(getContext(), UrlBuilder.sortByTopRated);
                 task = new FetchMovieData();
                 task.execute(String.valueOf(page++));
                 return true;
             case R.id.action_sort_by_popular:
                 movieList.clear();
-                visibleItemNumber=0;
-                page=1;
-                Util.setSortByChoice(getContext(),UrlBuilder.sortByPopular);
+                visibleItemNumber = 0;
+                page = 1;
+                Util.setSortByChoice(getContext(), UrlBuilder.sortByPopular);
+                task = new FetchMovieData();
+                task.execute(String.valueOf(page++));
+                return true;
+            case R.id.action_sort_by_favourites:
+                movieList.clear();
+                visibleItemNumber = 0;
+                page = 1;
+                Util.setSortByChoice(getContext(), UrlBuilder.sortByFavourites);
                 task = new FetchMovieData();
                 task.execute(String.valueOf(page++));
                 return true;
@@ -150,33 +213,38 @@ public class MovieActivityFragment extends Fragment {
             try {
                 if (Util.hasActiveInternetConnection(getContext())) {
                     MovieController controller = new MovieController(mContext);
-                    String jsonString = controller.fetchMovieList(Util.getSortByChoice(getContext()), params[0]);
-                    if (!(jsonString == null || jsonString.trim().equals(""))) {
-                        JSONObject object = new JSONObject(jsonString);
-                        JSONArray results = object.getJSONArray("results");
-                        Movie[] movie = new Gson().fromJson(results.toString(), Movie[].class);
-                        movieList.addAll(Arrays.asList(movie));
+                    if (!Util.getSortByChoice(getContext()).equalsIgnoreCase("favourites")) {
+                        String jsonString = controller.fetchMovieList(Util.getSortByChoice(getContext()), params[0]);
+                        if (!(jsonString == null || jsonString.trim().equals(""))) {
+                            JSONObject object = new JSONObject(jsonString);
+                            JSONArray results = object.getJSONArray("results");
+                            Movie[] movie = new Gson().fromJson(results.toString(), Movie[].class);
+                            movieList.addAll(Arrays.asList(movie));
+                        } else {
+                            p[0] = "Unable to connect to server. Please try again later.";
+                        }
                     } else {
-                        p[0] = "Unable to connect to server. Please try again later.";
+                        movieList.clear();
+                        movieList.addAll(controller.fetchFavMoviesFromDB());
                     }
                 } else {
                     p[0] = "Unable to connect to server. Please try again later.";
                 }
-            } catch (JSONException e) {
+            } catch (
+                    JSONException e
+                    )
+
+            {
                 e.printStackTrace();
             }
+
             return p;
         }
 
         @Override
         protected void onPostExecute(String[] strings) {
             if (strings[0].equalsIgnoreCase("success")) {
-                MovieAdapter adapter = new MovieAdapter(getContext(), movieList);
-                listMovie.setAdapter(adapter);
-                listMovie.setSelection(visibleItemNumber);
-                listMovie.smoothScrollToPosition(visibleItemNumber);
-                adapter.notifyDataSetChanged();
-                dialog.dismiss();
+                updateUI();
             } else {
                 Toast.makeText(getContext(), strings[0], Toast.LENGTH_SHORT).show();
                 getActivity().finish();
@@ -184,6 +252,15 @@ public class MovieActivityFragment extends Fragment {
             isLoading = false;
             super.onPostExecute(strings);
         }
+    }
+
+    public void updateUI() {
+        MovieAdapter adapter = new MovieAdapter(getContext(), movieList);
+        listMovie.setAdapter(adapter);
+        listMovie.setSelection(visibleItemNumber);
+        listMovie.smoothScrollToPosition(visibleItemNumber);
+        adapter.notifyDataSetChanged();
+        dialog.dismiss();
     }
 
 

@@ -1,5 +1,8 @@
 package com.udacity.akkisathe2.popmymovies_s2.model;
 
+import android.os.Parcel;
+import android.os.Parcelable;
+
 import com.google.gson.annotations.SerializedName;
 
 import java.util.ArrayList;
@@ -8,8 +11,7 @@ import java.util.List;
 /**
  * Created by 836158 on 01-04-2016.
  */
-public class Movie
-{
+public class Movie implements Parcelable {
     @SerializedName("vote_average")
     private String voteAverage;
 
@@ -79,6 +81,44 @@ public class Movie
 
     private List<Trailer> trailers;
 
+    protected Movie(Parcel in) {
+        voteAverage = in.readString();
+        backdropPath = in.readString();
+        adult = in.readString();
+        id = in.readString();
+        title = in.readString();
+        overview = in.readString();
+        originalLanguage = in.readString();
+        genreIds = in.createStringArray();
+        releaseDate = in.readString();
+        originalTitle = in.readString();
+        voteCount = in.readString();
+        posterPath = in.readString();
+        video = in.readString();
+        popularity = in.readString();
+        budget = in.readString();
+        status = in.readString();
+        runtime = in.readString();
+        homepage = in.readString();
+        tagline = in.readString();
+        revenue = in.readString();
+    }
+
+    public Movie() {
+    }
+
+    public static final Creator<Movie> CREATOR = new Creator<Movie>() {
+        @Override
+        public Movie createFromParcel(Parcel in) {
+            return new Movie(in);
+        }
+
+        @Override
+        public Movie[] newArray(int size) {
+            return new Movie[size];
+        }
+    };
+
     public Boolean getAddedToFavourites() {
         return isAddedToFavourites;
     }
@@ -101,7 +141,7 @@ public class Movie
     }
 
     public void setTrailers(List<Trailer> trailers) {
-        this.trailers=new ArrayList<>();
+        this.trailers = new ArrayList<>();
         this.trailers.addAll(trailers);
     }
 
@@ -273,55 +313,102 @@ public class Movie
         this.revenue = revenue;
     }
 
-    public String[] getGenreNames()
-    {
-        Genres[] genres=getGenres();
-        String[] genreString=new String[genres.length];
-        for(int i=0;i<genres.length;i++)
-        {
-            genreString[i]=genres[i].getName();
+    public String[] getGenreNames() {
+        Genres[] genres = getGenres();
+        String[] genreString = new String[genres.length];
+        for (int i = 0; i < genres.length; i++) {
+            genreString[i] = genres[i].getName();
         }
         return genreString;
     }
 
 
-
     @Override
-    public String toString()
-    {
-        return "MoviePojo [budget = "+budget+", vote_average = "+voteAverage+", backdrop_path = "+backdropPath+", genres = "+genres+", status = "+status+", runtime = "+runtime+", adult = "+adult+", homepage = "+homepage+", id = "+id+", title = "+title+", overview = "+overview+", release_date = "+releaseDate+", original_title = "+originalTitle+", vote_count = "+voteCount+", poster_path = "+posterPath+", video = "+video+", tagline = "+tagline+", revenue = "+revenue+", popularity = "+popularity+"]";
+    public String toString() {
+        return "MoviePojo [budget = " + budget + ", vote_average = " + voteAverage + ", backdrop_path = " + backdropPath + ", genres = " + genres + ", status = " + status + ", runtime = " + runtime + ", adult = " + adult + ", homepage = " + homepage + ", id = " + id + ", title = " + title + ", overview = " + overview + ", release_date = " + releaseDate + ", original_title = " + originalTitle + ", vote_count = " + voteCount + ", poster_path = " + posterPath + ", video = " + video + ", tagline = " + tagline + ", revenue = " + revenue + ", popularity = " + popularity + "]";
     }
 
-    public class Genres
-    {
+    @Override
+    public int describeContents() {
+        return 0;
+    }
+
+    @Override
+    public void writeToParcel(Parcel dest, int flags) {
+        dest.writeString(voteAverage);
+        dest.writeString(backdropPath);
+        dest.writeString(adult);
+        dest.writeString(id);
+        dest.writeString(title);
+        dest.writeString(overview);
+        dest.writeString(originalLanguage);
+        dest.writeStringArray(genreIds);
+        dest.writeString(releaseDate);
+        dest.writeString(originalTitle);
+        dest.writeString(voteCount);
+        dest.writeString(posterPath);
+        dest.writeString(video);
+        dest.writeString(popularity);
+        dest.writeString(budget);
+        dest.writeString(status);
+        dest.writeString(runtime);
+        dest.writeString(homepage);
+        dest.writeString(tagline);
+        dest.writeString(revenue);
+    }
+
+    public class Genres implements Parcelable {
         private String id;
 
         private String name;
 
-        public String getId ()
-        {
+        protected Genres(Parcel in) {
+            id = in.readString();
+            name = in.readString();
+        }
+
+        public final Creator<Genres> CREATOR = new Creator<Genres>() {
+            @Override
+            public Genres createFromParcel(Parcel in) {
+                return new Genres(in);
+            }
+
+            @Override
+            public Genres[] newArray(int size) {
+                return new Genres[size];
+            }
+        };
+
+        public String getId() {
             return id;
         }
 
-        public void setId (String id)
-        {
+        public void setId(String id) {
             this.id = id;
         }
 
-        public String getName ()
-        {
+        public String getName() {
             return name;
         }
 
-        public void setName (String name)
-        {
+        public void setName(String name) {
             this.name = name;
         }
 
         @Override
-        public String toString()
-        {
-            return "ClassPojo [id = "+id+", name = "+name+"]";
+        public String toString() {
+            return "ClassPojo [id = " + id + ", name = " + name + "]";
+        }
+
+        @Override
+        public int describeContents() {
+            return 0;
+        }
+
+        @Override
+        public void writeToParcel(Parcel dest, int flags) {
+            dest.writeString(id);
+            dest.writeString(name);
         }
     }
 

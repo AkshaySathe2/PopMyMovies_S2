@@ -9,6 +9,7 @@ import android.net.Uri;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
+import android.support.v4.content.LocalBroadcastManager;
 import android.support.v7.app.AlertDialog;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -294,6 +295,10 @@ public class MovieDetailFragment extends Fragment {
                 Toast.makeText(mContext, "Movie add to favourites", Toast.LENGTH_SHORT).show();
                 addToFavourites.setImageResource(R.drawable.ic_favorite_white_24dp);
             }
+            Intent intent = new Intent("Favourites Event");
+            // You can also include some extra data.
+            intent.putExtra("MovieId",movie.getId());
+            LocalBroadcastManager.getInstance(mContext).sendBroadcast(intent);
         }
     }
 }

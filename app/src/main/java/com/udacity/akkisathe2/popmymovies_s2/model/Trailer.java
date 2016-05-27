@@ -1,11 +1,14 @@
 package com.udacity.akkisathe2.popmymovies_s2.model;
 
+import android.os.Parcel;
+import android.os.Parcelable;
+
 import com.google.gson.annotations.SerializedName;
 
 /**
  * Created by 836158 on 23-05-2016.
  */
-public class Trailer {
+public class Trailer implements Parcelable {
 
     @SerializedName("site")
     private String site;
@@ -31,6 +34,29 @@ public class Trailer {
     @SerializedName("size")
     private String size;
 
+
+    protected Trailer(Parcel in) {
+        site = in.readString();
+        id = in.readString();
+        iso_639_1 = in.readString();
+        name = in.readString();
+        type = in.readString();
+        key = in.readString();
+        iso_3166_1 = in.readString();
+        size = in.readString();
+    }
+
+    public static final Creator<Trailer> CREATOR = new Creator<Trailer>() {
+        @Override
+        public Trailer createFromParcel(Parcel in) {
+            return new Trailer(in);
+        }
+
+        @Override
+        public Trailer[] newArray(int size) {
+            return new Trailer[size];
+        }
+    };
 
     public String getSite ()
     {
@@ -112,4 +138,20 @@ public class Trailer {
         this.size = size;
     }
 
+    @Override
+    public int describeContents() {
+        return 0;
+    }
+
+    @Override
+    public void writeToParcel(Parcel dest, int flags) {
+        dest.writeString(site);
+        dest.writeString(id);
+        dest.writeString(iso_639_1);
+        dest.writeString(name);
+        dest.writeString(type);
+        dest.writeString(key);
+        dest.writeString(iso_3166_1);
+        dest.writeString(size);
+    }
 }

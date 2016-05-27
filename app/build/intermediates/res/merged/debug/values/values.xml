@@ -232,6 +232,7 @@
     <string name="heading_genres">Genres :</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="hello_world">Hello world!</string>
+    <string name="sort_by_favourites">Favourites</string>
     <string name="sort_by_popular">Popular</string>
     <string name="sort_by_top_rated">Top rated</string>
     <string name="status_bar_notification_info_overflow">999+</string>

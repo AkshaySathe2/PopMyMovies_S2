@@ -1,11 +1,14 @@
 package com.udacity.akkisathe2.popmymovies_s2.model;
 
+import android.os.Parcel;
+import android.os.Parcelable;
+
 import com.google.gson.annotations.SerializedName;
 
 /**
  * Created by 836158 on 23-05-2016.
  */
-public class Review {
+public class Review implements Parcelable{
 
     @SerializedName("content")
     private String content;
@@ -18,6 +21,25 @@ public class Review {
 
     @SerializedName("url")
     private String url;
+
+    protected Review(Parcel in) {
+        content = in.readString();
+        id = in.readString();
+        author = in.readString();
+        url = in.readString();
+    }
+
+    public static final Creator<Review> CREATOR = new Creator<Review>() {
+        @Override
+        public Review createFromParcel(Parcel in) {
+            return new Review(in);
+        }
+
+        @Override
+        public Review[] newArray(int size) {
+            return new Review[size];
+        }
+    };
 
     public String getContent ()
     {
@@ -59,4 +81,16 @@ public class Review {
         this.url = url;
     }
 
+    @Override
+    public int describeContents() {
+        return 0;
+    }
+
+    @Override
+    public void writeToParcel(Parcel dest, int flags) {
+        dest.writeString(content);
+        dest.writeString(id);
+        dest.writeString(author);
+        dest.writeString(url);
+    }
 }

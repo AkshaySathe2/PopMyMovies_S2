@@ -1,5 +1,10 @@
-CHANGED,D:\Akshay\Udacity\PopMyMovies_S2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\udacity\akkisathe2\popmymovies_s2\fragment\MovieDetailFragment$1$1$override.class
-CHANGED,D:\Akshay\Udacity\PopMyMovies_S2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\udacity\akkisathe2\popmymovies_s2\fragment\MovieDetailFragment$1$override.class
-CHANGED,D:\Akshay\Udacity\PopMyMovies_S2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\udacity\akkisathe2\popmymovies_s2\fragment\MovieDetailFragment$FetchMovieData$override.class
+CHANGED,D:\Akshay\Udacity\PopMyMovies_S2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\udacity\akkisathe2\popmymovies_s2\fragment\MovieActivityFragment$override.class
+CHANGED,D:\Akshay\Udacity\PopMyMovies_S2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\udacity\akkisathe2\popmymovies_s2\fragment\MovieActivityFragment$FetchMovieData$override.class
+CHANGED,D:\Akshay\Udacity\PopMyMovies_S2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\udacity\akkisathe2\popmymovies_s2\model\Review$override.class
+CHANGED,D:\Akshay\Udacity\PopMyMovies_S2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\udacity\akkisathe2\popmymovies_s2\model\Movie$Genres$override.class
+CHANGED,D:\Akshay\Udacity\PopMyMovies_S2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\udacity\akkisathe2\popmymovies_s2\fragment\MovieActivityFragment$1$override.class
+CHANGED,D:\Akshay\Udacity\PopMyMovies_S2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\udacity\akkisathe2\popmymovies_s2\fragment\MovieActivityFragment$2$override.class
+CHANGED,D:\Akshay\Udacity\PopMyMovies_S2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\udacity\akkisathe2\popmymovies_s2\fragment\MovieActivityFragment$3$override.class
+CHANGED,D:\Akshay\Udacity\PopMyMovies_S2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\udacity\akkisathe2\popmymovies_s2\model\Trailer$override.class
 CHANGED,D:\Akshay\Udacity\PopMyMovies_S2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
-CHANGED,D:\Akshay\Udacity\PopMyMovies_S2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\udacity\akkisathe2\popmymovies_s2\fragment\MovieDetailFragment$override.class
+CHANGED,D:\Akshay\Udacity\PopMyMovies_S2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\udacity\akkisathe2\popmymovies_s2\model\Movie$override.class
