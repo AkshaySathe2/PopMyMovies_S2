@@ -2158,33 +2158,33 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionBar_background com.udacity.akkisathe2.popmymovies_s1:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundSplit com.udacity.akkisathe2.popmymovies_s1:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundStacked com.udacity.akkisathe2.popmymovies_s1:backgroundStacked}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetEnd com.udacity.akkisathe2.popmymovies_s1:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetLeft com.udacity.akkisathe2.popmymovies_s1:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetRight com.udacity.akkisathe2.popmymovies_s1:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetStart com.udacity.akkisathe2.popmymovies_s1:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_customNavigationLayout com.udacity.akkisathe2.popmymovies_s1:customNavigationLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_displayOptions com.udacity.akkisathe2.popmymovies_s1:displayOptions}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_divider com.udacity.akkisathe2.popmymovies_s1:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_elevation com.udacity.akkisathe2.popmymovies_s1:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_height com.udacity.akkisathe2.popmymovies_s1:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_hideOnContentScroll com.udacity.akkisathe2.popmymovies_s1:hideOnContentScroll}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.udacity.akkisathe2.popmymovies_s1:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeLayout com.udacity.akkisathe2.popmymovies_s1:homeLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_icon com.udacity.akkisathe2.popmymovies_s1:icon}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.udacity.akkisathe2.popmymovies_s1:indeterminateProgressStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_itemPadding com.udacity.akkisathe2.popmymovies_s1:itemPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_logo com.udacity.akkisathe2.popmymovies_s1:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_navigationMode com.udacity.akkisathe2.popmymovies_s1:navigationMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_popupTheme com.udacity.akkisathe2.popmymovies_s1:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarPadding com.udacity.akkisathe2.popmymovies_s1:progressBarPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarStyle com.udacity.akkisathe2.popmymovies_s1:progressBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitle com.udacity.akkisathe2.popmymovies_s1:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitleTextStyle com.udacity.akkisathe2.popmymovies_s1:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_title com.udacity.akkisathe2.popmymovies_s1:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_titleTextStyle com.udacity.akkisathe2.popmymovies_s1:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_background com.udacity.akkisathe2.popmymovies_s2:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundSplit com.udacity.akkisathe2.popmymovies_s2:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundStacked com.udacity.akkisathe2.popmymovies_s2:backgroundStacked}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetEnd com.udacity.akkisathe2.popmymovies_s2:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetLeft com.udacity.akkisathe2.popmymovies_s2:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetRight com.udacity.akkisathe2.popmymovies_s2:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetStart com.udacity.akkisathe2.popmymovies_s2:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_customNavigationLayout com.udacity.akkisathe2.popmymovies_s2:customNavigationLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_displayOptions com.udacity.akkisathe2.popmymovies_s2:displayOptions}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_divider com.udacity.akkisathe2.popmymovies_s2:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_elevation com.udacity.akkisathe2.popmymovies_s2:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_height com.udacity.akkisathe2.popmymovies_s2:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_hideOnContentScroll com.udacity.akkisathe2.popmymovies_s2:hideOnContentScroll}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.udacity.akkisathe2.popmymovies_s2:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeLayout com.udacity.akkisathe2.popmymovies_s2:homeLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_icon com.udacity.akkisathe2.popmymovies_s2:icon}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.udacity.akkisathe2.popmymovies_s2:indeterminateProgressStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_itemPadding com.udacity.akkisathe2.popmymovies_s2:itemPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_logo com.udacity.akkisathe2.popmymovies_s2:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_navigationMode com.udacity.akkisathe2.popmymovies_s2:navigationMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_popupTheme com.udacity.akkisathe2.popmymovies_s2:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarPadding com.udacity.akkisathe2.popmymovies_s2:progressBarPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarStyle com.udacity.akkisathe2.popmymovies_s2:progressBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitle com.udacity.akkisathe2.popmymovies_s2:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitleTextStyle com.udacity.akkisathe2.popmymovies_s2:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_title com.udacity.akkisathe2.popmymovies_s2:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_titleTextStyle com.udacity.akkisathe2.popmymovies_s2:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionBar_background
            @see #ActionBar_backgroundSplit
@@ -2224,17 +2224,17 @@ containing a value of this type.
             0x7f01001a, 0x7f01001b, 0x7f01007c
         };
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#background}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#background}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:background
+          @attr name com.udacity.akkisathe2.popmymovies_s2:background
         */
         public static final int ActionBar_background = 10;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2242,11 +2242,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:backgroundSplit
+          @attr name com.udacity.akkisathe2.popmymovies_s2:backgroundSplit
         */
         public static final int ActionBar_backgroundSplit = 12;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#backgroundStacked}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#backgroundStacked}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2254,11 +2254,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:backgroundStacked
+          @attr name com.udacity.akkisathe2.popmymovies_s2:backgroundStacked
         */
         public static final int ActionBar_backgroundStacked = 11;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2270,11 +2270,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:contentInsetEnd
+          @attr name com.udacity.akkisathe2.popmymovies_s2:contentInsetEnd
         */
         public static final int ActionBar_contentInsetEnd = 21;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2286,11 +2286,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:contentInsetLeft
+          @attr name com.udacity.akkisathe2.popmymovies_s2:contentInsetLeft
         */
         public static final int ActionBar_contentInsetLeft = 22;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2302,11 +2302,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:contentInsetRight
+          @attr name com.udacity.akkisathe2.popmymovies_s2:contentInsetRight
         */
         public static final int ActionBar_contentInsetRight = 23;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2318,21 +2318,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:contentInsetStart
+          @attr name com.udacity.akkisathe2.popmymovies_s2:contentInsetStart
         */
         public static final int ActionBar_contentInsetStart = 20;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#customNavigationLayout}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#customNavigationLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:customNavigationLayout
+          @attr name com.udacity.akkisathe2.popmymovies_s2:customNavigationLayout
         */
         public static final int ActionBar_customNavigationLayout = 13;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#displayOptions}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#displayOptions}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2350,21 +2350,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>showCustom</code></td><td>0x10</td><td></td></tr>
 <tr><td><code>disableHome</code></td><td>0x20</td><td></td></tr>
 </table>
-          @attr name com.udacity.akkisathe2.popmymovies_s1:displayOptions
+          @attr name com.udacity.akkisathe2.popmymovies_s2:displayOptions
         */
         public static final int ActionBar_displayOptions = 3;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#divider}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#divider}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:divider
+          @attr name com.udacity.akkisathe2.popmymovies_s2:divider
         */
         public static final int ActionBar_divider = 9;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#elevation}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2376,11 +2376,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:elevation
+          @attr name com.udacity.akkisathe2.popmymovies_s2:elevation
         */
         public static final int ActionBar_elevation = 24;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#height}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#height}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2392,11 +2392,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:height
+          @attr name com.udacity.akkisathe2.popmymovies_s2:height
         */
         public static final int ActionBar_height = 0;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#hideOnContentScroll}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#hideOnContentScroll}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2406,51 +2406,51 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:hideOnContentScroll
+          @attr name com.udacity.akkisathe2.popmymovies_s2:hideOnContentScroll
         */
         public static final int ActionBar_hideOnContentScroll = 19;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:homeAsUpIndicator
+          @attr name com.udacity.akkisathe2.popmymovies_s2:homeAsUpIndicator
         */
         public static final int ActionBar_homeAsUpIndicator = 26;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#homeLayout}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#homeLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:homeLayout
+          @attr name com.udacity.akkisathe2.popmymovies_s2:homeLayout
         */
         public static final int ActionBar_homeLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#icon}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#icon}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:icon
+          @attr name com.udacity.akkisathe2.popmymovies_s2:icon
         */
         public static final int ActionBar_icon = 7;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#indeterminateProgressStyle}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#indeterminateProgressStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:indeterminateProgressStyle
+          @attr name com.udacity.akkisathe2.popmymovies_s2:indeterminateProgressStyle
         */
         public static final int ActionBar_indeterminateProgressStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#itemPadding}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#itemPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2462,21 +2462,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:itemPadding
+          @attr name com.udacity.akkisathe2.popmymovies_s2:itemPadding
         */
         public static final int ActionBar_itemPadding = 18;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#logo}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#logo}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:logo
+          @attr name com.udacity.akkisathe2.popmymovies_s2:logo
         */
         public static final int ActionBar_logo = 8;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#navigationMode}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#navigationMode}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2490,21 +2490,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>listMode</code></td><td>1</td><td></td></tr>
 <tr><td><code>tabMode</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.udacity.akkisathe2.popmymovies_s1:navigationMode
+          @attr name com.udacity.akkisathe2.popmymovies_s2:navigationMode
         */
         public static final int ActionBar_navigationMode = 2;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#popupTheme}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:popupTheme
+          @attr name com.udacity.akkisathe2.popmymovies_s2:popupTheme
         */
         public static final int ActionBar_popupTheme = 25;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#progressBarPadding}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#progressBarPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2516,21 +2516,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:progressBarPadding
+          @attr name com.udacity.akkisathe2.popmymovies_s2:progressBarPadding
         */
         public static final int ActionBar_progressBarPadding = 17;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#progressBarStyle}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#progressBarStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:progressBarStyle
+          @attr name com.udacity.akkisathe2.popmymovies_s2:progressBarStyle
         */
         public static final int ActionBar_progressBarStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#subtitle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2540,21 +2540,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:subtitle
+          @attr name com.udacity.akkisathe2.popmymovies_s2:subtitle
         */
         public static final int ActionBar_subtitle = 4;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:subtitleTextStyle
+          @attr name com.udacity.akkisathe2.popmymovies_s2:subtitleTextStyle
         */
         public static final int ActionBar_subtitleTextStyle = 6;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#title}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#title}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2564,17 +2564,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:title
+          @attr name com.udacity.akkisathe2.popmymovies_s2:title
         */
         public static final int ActionBar_title = 1;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:titleTextStyle
+          @attr name com.udacity.akkisathe2.popmymovies_s2:titleTextStyle
         */
         public static final int ActionBar_titleTextStyle = 5;
         /** Attributes that can be used with a ActionBarLayout.
@@ -2626,12 +2626,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionMode_background com.udacity.akkisathe2.popmymovies_s1:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_backgroundSplit com.udacity.akkisathe2.popmymovies_s1:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_closeItemLayout com.udacity.akkisathe2.popmymovies_s1:closeItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_height com.udacity.akkisathe2.popmymovies_s1:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_subtitleTextStyle com.udacity.akkisathe2.popmymovies_s1:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_titleTextStyle com.udacity.akkisathe2.popmymovies_s1:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_background com.udacity.akkisathe2.popmymovies_s2:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_backgroundSplit com.udacity.akkisathe2.popmymovies_s2:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_closeItemLayout com.udacity.akkisathe2.popmymovies_s2:closeItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_height com.udacity.akkisathe2.popmymovies_s2:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_subtitleTextStyle com.udacity.akkisathe2.popmymovies_s2:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_titleTextStyle com.udacity.akkisathe2.popmymovies_s2:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionMode_background
            @see #ActionMode_backgroundSplit
@@ -2645,17 +2645,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01000e, 0x7f01001c
         };
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#background}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#background}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:background
+          @attr name com.udacity.akkisathe2.popmymovies_s2:background
         */
         public static final int ActionMode_background = 3;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -2663,21 +2663,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:backgroundSplit
+          @attr name com.udacity.akkisathe2.popmymovies_s2:backgroundSplit
         */
         public static final int ActionMode_backgroundSplit = 4;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#closeItemLayout}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#closeItemLayout}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:closeItemLayout
+          @attr name com.udacity.akkisathe2.popmymovies_s2:closeItemLayout
         */
         public static final int ActionMode_closeItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#height}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#height}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -2689,27 +2689,27 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:height
+          @attr name com.udacity.akkisathe2.popmymovies_s2:height
         */
         public static final int ActionMode_height = 0;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:subtitleTextStyle
+          @attr name com.udacity.akkisathe2.popmymovies_s2:subtitleTextStyle
         */
         public static final int ActionMode_subtitleTextStyle = 2;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:titleTextStyle
+          @attr name com.udacity.akkisathe2.popmymovies_s2:titleTextStyle
         */
         public static final int ActionMode_titleTextStyle = 1;
         /** Attributes that can be used with a ActivityChooserView.
@@ -2718,8 +2718,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.udacity.akkisathe2.popmymovies_s1:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.udacity.akkisathe2.popmymovies_s1:initialActivityCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.udacity.akkisathe2.popmymovies_s2:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.udacity.akkisathe2.popmymovies_s2:initialActivityCount}</code></td><td></td></tr>
            </table>
            @see #ActivityChooserView_expandActivityOverflowButtonDrawable
            @see #ActivityChooserView_initialActivityCount
@@ -2728,17 +2728,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01001d, 0x7f01001e
         };
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#expandActivityOverflowButtonDrawable}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#expandActivityOverflowButtonDrawable}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:expandActivityOverflowButtonDrawable
+          @attr name com.udacity.akkisathe2.popmymovies_s2:expandActivityOverflowButtonDrawable
         */
         public static final int ActivityChooserView_expandActivityOverflowButtonDrawable = 1;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#initialActivityCount}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#initialActivityCount}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
@@ -2748,7 +2748,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:initialActivityCount
+          @attr name com.udacity.akkisathe2.popmymovies_s2:initialActivityCount
         */
         public static final int ActivityChooserView_initialActivityCount = 0;
         /** Attributes that can be used with a AlertDialog.
@@ -2758,11 +2758,11 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.udacity.akkisathe2.popmymovies_s1:buttonPanelSideLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listItemLayout com.udacity.akkisathe2.popmymovies_s1:listItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listLayout com.udacity.akkisathe2.popmymovies_s1:listLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.udacity.akkisathe2.popmymovies_s1:multiChoiceItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.udacity.akkisathe2.popmymovies_s1:singleChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.udacity.akkisathe2.popmymovies_s2:buttonPanelSideLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listItemLayout com.udacity.akkisathe2.popmymovies_s2:listItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listLayout com.udacity.akkisathe2.popmymovies_s2:listLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.udacity.akkisathe2.popmymovies_s2:multiChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.udacity.akkisathe2.popmymovies_s2:singleChoiceItemLayout}</code></td><td></td></tr>
            </table>
            @see #AlertDialog_android_layout
            @see #AlertDialog_buttonPanelSideLayout
@@ -2782,53 +2782,53 @@ containing a value of this type.
         */
         public static final int AlertDialog_android_layout = 0;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#buttonPanelSideLayout}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#buttonPanelSideLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:buttonPanelSideLayout
+          @attr name com.udacity.akkisathe2.popmymovies_s2:buttonPanelSideLayout
         */
         public static final int AlertDialog_buttonPanelSideLayout = 1;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#listItemLayout}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#listItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:listItemLayout
+          @attr name com.udacity.akkisathe2.popmymovies_s2:listItemLayout
         */
         public static final int AlertDialog_listItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#listLayout}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#listLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:listLayout
+          @attr name com.udacity.akkisathe2.popmymovies_s2:listLayout
         */
         public static final int AlertDialog_listLayout = 2;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#multiChoiceItemLayout}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#multiChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:multiChoiceItemLayout
+          @attr name com.udacity.akkisathe2.popmymovies_s2:multiChoiceItemLayout
         */
         public static final int AlertDialog_multiChoiceItemLayout = 3;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#singleChoiceItemLayout}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#singleChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:singleChoiceItemLayout
+          @attr name com.udacity.akkisathe2.popmymovies_s2:singleChoiceItemLayout
         */
         public static final int AlertDialog_singleChoiceItemLayout = 4;
         /** Attributes that can be used with a AppCompatTextView.
@@ -2838,7 +2838,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTextView_textAllCaps com.udacity.akkisathe2.popmymovies_s1:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextView_textAllCaps com.udacity.akkisathe2.popmymovies_s2:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #AppCompatTextView_android_textAppearance
            @see #AppCompatTextView_textAllCaps
@@ -2853,14 +2853,14 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatTextView_android_textAppearance = 0;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#textAllCaps}
           attribute's value can be found in the {@link #AppCompatTextView} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:textAllCaps
+          @attr name com.udacity.akkisathe2.popmymovies_s2:textAllCaps
         */
         public static final int AppCompatTextView_textAllCaps = 1;
         /** Attributes that can be used with a ButtonBarLayout.
@@ -2869,7 +2869,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ButtonBarLayout_allowStacking com.udacity.akkisathe2.popmymovies_s1:allowStacking}</code></td><td></td></tr>
+           <tr><td><code>{@link #ButtonBarLayout_allowStacking com.udacity.akkisathe2.popmymovies_s2:allowStacking}</code></td><td></td></tr>
            </table>
            @see #ButtonBarLayout_allowStacking
          */
@@ -2877,7 +2877,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010025
         };
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#allowStacking}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#allowStacking}
           attribute's value can be found in the {@link #ButtonBarLayout} array.
 
 
@@ -2887,7 +2887,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:allowStacking
+          @attr name com.udacity.akkisathe2.popmymovies_s2:allowStacking
         */
         public static final int ButtonBarLayout_allowStacking = 0;
         /** Attributes that can be used with a CompoundButton.
@@ -2897,8 +2897,8 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CompoundButton_android_button android:button}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTint com.udacity.akkisathe2.popmymovies_s1:buttonTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTintMode com.udacity.akkisathe2.popmymovies_s1:buttonTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTint com.udacity.akkisathe2.popmymovies_s2:buttonTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTintMode com.udacity.akkisathe2.popmymovies_s2:buttonTintMode}</code></td><td></td></tr>
            </table>
            @see #CompoundButton_android_button
            @see #CompoundButton_buttonTint
@@ -2914,7 +2914,7 @@ containing a value of this type.
         */
         public static final int CompoundButton_android_button = 0;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#buttonTint}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#buttonTint}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -2925,11 +2925,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:buttonTint
+          @attr name com.udacity.akkisathe2.popmymovies_s2:buttonTint
         */
         public static final int CompoundButton_buttonTint = 1;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#buttonTintMode}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#buttonTintMode}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -2945,7 +2945,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.udacity.akkisathe2.popmymovies_s1:buttonTintMode
+          @attr name com.udacity.akkisathe2.popmymovies_s2:buttonTintMode
         */
         public static final int CompoundButton_buttonTintMode = 2;
         /** Attributes that can be used with a DrawerArrowToggle.
@@ -2954,14 +2954,14 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.udacity.akkisathe2.popmymovies_s1:arrowHeadLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.udacity.akkisathe2.popmymovies_s1:arrowShaftLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_barLength com.udacity.akkisathe2.popmymovies_s1:barLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_color com.udacity.akkisathe2.popmymovies_s1:color}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.udacity.akkisathe2.popmymovies_s1:drawableSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.udacity.akkisathe2.popmymovies_s1:gapBetweenBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_spinBars com.udacity.akkisathe2.popmymovies_s1:spinBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_thickness com.udacity.akkisathe2.popmymovies_s1:thickness}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.udacity.akkisathe2.popmymovies_s2:arrowHeadLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.udacity.akkisathe2.popmymovies_s2:arrowShaftLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_barLength com.udacity.akkisathe2.popmymovies_s2:barLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_color com.udacity.akkisathe2.popmymovies_s2:color}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.udacity.akkisathe2.popmymovies_s2:drawableSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.udacity.akkisathe2.popmymovies_s2:gapBetweenBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_spinBars com.udacity.akkisathe2.popmymovies_s2:spinBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_thickness com.udacity.akkisathe2.popmymovies_s2:thickness}</code></td><td></td></tr>
            </table>
            @see #DrawerArrowToggle_arrowHeadLength
            @see #DrawerArrowToggle_arrowShaftLength
@@ -2977,7 +2977,7 @@ containing a value of this type.
             0x7f01002c, 0x7f01002d, 0x7f01002e, 0x7f01002f
         };
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#arrowHeadLength}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#arrowHeadLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -2989,11 +2989,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:arrowHeadLength
+          @attr name com.udacity.akkisathe2.popmymovies_s2:arrowHeadLength
         */
         public static final int DrawerArrowToggle_arrowHeadLength = 4;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#arrowShaftLength}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#arrowShaftLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -3005,11 +3005,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:arrowShaftLength
+          @attr name com.udacity.akkisathe2.popmymovies_s2:arrowShaftLength
         */
         public static final int DrawerArrowToggle_arrowShaftLength = 5;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#barLength}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#barLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -3021,11 +3021,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:barLength
+          @attr name com.udacity.akkisathe2.popmymovies_s2:barLength
         */
         public static final int DrawerArrowToggle_barLength = 6;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#color}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#color}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -3036,11 +3036,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:color
+          @attr name com.udacity.akkisathe2.popmymovies_s2:color
         */
         public static final int DrawerArrowToggle_color = 0;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#drawableSize}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#drawableSize}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -3052,11 +3052,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:drawableSize
+          @attr name com.udacity.akkisathe2.popmymovies_s2:drawableSize
         */
         public static final int DrawerArrowToggle_drawableSize = 2;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#gapBetweenBars}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#gapBetweenBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -3068,11 +3068,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:gapBetweenBars
+          @attr name com.udacity.akkisathe2.popmymovies_s2:gapBetweenBars
         */
         public static final int DrawerArrowToggle_gapBetweenBars = 3;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#spinBars}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#spinBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -3082,11 +3082,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:spinBars
+          @attr name com.udacity.akkisathe2.popmymovies_s2:spinBars
         */
         public static final int DrawerArrowToggle_spinBars = 1;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#thickness}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#thickness}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -3098,7 +3098,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:thickness
+          @attr name com.udacity.akkisathe2.popmymovies_s2:thickness
         */
         public static final int DrawerArrowToggle_thickness = 7;
         /** Attributes that can be used with a LinearLayoutCompat.
@@ -3112,10 +3112,10 @@ containing a value of this type.
            <tr><td><code>{@link #LinearLayoutCompat_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_orientation android:orientation}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_divider com.udacity.akkisathe2.popmymovies_s1:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.udacity.akkisathe2.popmymovies_s1:dividerPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.udacity.akkisathe2.popmymovies_s1:measureWithLargestChild}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_showDividers com.udacity.akkisathe2.popmymovies_s1:showDividers}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_divider com.udacity.akkisathe2.popmymovies_s2:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.udacity.akkisathe2.popmymovies_s2:dividerPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.udacity.akkisathe2.popmymovies_s2:measureWithLargestChild}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_showDividers com.udacity.akkisathe2.popmymovies_s2:showDividers}</code></td><td></td></tr>
            </table>
            @see #LinearLayoutCompat_android_baselineAligned
            @see #LinearLayoutCompat_android_baselineAlignedChildIndex
@@ -3163,17 +3163,17 @@ containing a value of this type.
         */
         public static final int LinearLayoutCompat_android_weightSum = 4;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#divider}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#divider}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:divider
+          @attr name com.udacity.akkisathe2.popmymovies_s2:divider
         */
         public static final int LinearLayoutCompat_divider = 5;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#dividerPadding}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#dividerPadding}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -3185,11 +3185,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:dividerPadding
+          @attr name com.udacity.akkisathe2.popmymovies_s2:dividerPadding
         */
         public static final int LinearLayoutCompat_dividerPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#measureWithLargestChild}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#measureWithLargestChild}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -3199,11 +3199,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:measureWithLargestChild
+          @attr name com.udacity.akkisathe2.popmymovies_s2:measureWithLargestChild
         */
         public static final int LinearLayoutCompat_measureWithLargestChild = 6;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#showDividers}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#showDividers}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -3218,7 +3218,7 @@ containing a value of this type.
 <tr><td><code>middle</code></td><td>2</td><td></td></tr>
 <tr><td><code>end</code></td><td>4</td><td></td></tr>
 </table>
-          @attr name com.udacity.akkisathe2.popmymovies_s1:showDividers
+          @attr name com.udacity.akkisathe2.popmymovies_s2:showDividers
         */
         public static final int LinearLayoutCompat_showDividers = 7;
         /** Attributes that can be used with a LinearLayoutCompat_Layout.
@@ -3357,9 +3357,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #MenuItem_actionLayout com.udacity.akkisathe2.popmymovies_s1:actionLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionProviderClass com.udacity.akkisathe2.popmymovies_s1:actionProviderClass}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionViewClass com.udacity.akkisathe2.popmymovies_s1:actionViewClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionLayout com.udacity.akkisathe2.popmymovies_s2:actionLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionProviderClass com.udacity.akkisathe2.popmymovies_s2:actionProviderClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionViewClass com.udacity.akkisathe2.popmymovies_s2:actionViewClass}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_alphabeticShortcut android:alphabeticShortcut}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checked android:checked}</code></td><td></td></tr>
@@ -3373,7 +3373,7 @@ containing a value of this type.
            <tr><td><code>{@link #MenuItem_android_title android:title}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_titleCondensed android:titleCondensed}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_visible android:visible}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_showAsAction com.udacity.akkisathe2.popmymovies_s1:showAsAction}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_showAsAction com.udacity.akkisathe2.popmymovies_s2:showAsAction}</code></td><td></td></tr>
            </table>
            @see #MenuItem_actionLayout
            @see #MenuItem_actionProviderClass
@@ -3401,17 +3401,17 @@ containing a value of this type.
             0x7f010036
         };
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#actionLayout}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#actionLayout}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:actionLayout
+          @attr name com.udacity.akkisathe2.popmymovies_s2:actionLayout
         */
         public static final int MenuItem_actionLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#actionProviderClass}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#actionProviderClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -3421,11 +3421,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:actionProviderClass
+          @attr name com.udacity.akkisathe2.popmymovies_s2:actionProviderClass
         */
         public static final int MenuItem_actionProviderClass = 16;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#actionViewClass}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#actionViewClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -3435,7 +3435,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:actionViewClass
+          @attr name com.udacity.akkisathe2.popmymovies_s2:actionViewClass
         */
         public static final int MenuItem_actionViewClass = 15;
         /**
@@ -3517,7 +3517,7 @@ containing a value of this type.
         */
         public static final int MenuItem_android_visible = 4;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#showAsAction}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#showAsAction}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -3533,7 +3533,7 @@ containing a value of this type.
 <tr><td><code>withText</code></td><td>4</td><td></td></tr>
 <tr><td><code>collapseActionView</code></td><td>8</td><td></td></tr>
 </table>
-          @attr name com.udacity.akkisathe2.popmymovies_s1:showAsAction
+          @attr name com.udacity.akkisathe2.popmymovies_s2:showAsAction
         */
         public static final int MenuItem_showAsAction = 13;
         /** Attributes that can be used with a MenuView.
@@ -3549,7 +3549,7 @@ containing a value of this type.
            <tr><td><code>{@link #MenuView_android_itemTextAppearance android:itemTextAppearance}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_verticalDivider android:verticalDivider}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_preserveIconSpacing com.udacity.akkisathe2.popmymovies_s1:preserveIconSpacing}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuView_preserveIconSpacing com.udacity.akkisathe2.popmymovies_s2:preserveIconSpacing}</code></td><td></td></tr>
            </table>
            @see #MenuView_android_headerBackground
            @see #MenuView_android_horizontalDivider
@@ -3607,7 +3607,7 @@ containing a value of this type.
         */
         public static final int MenuView_android_windowAnimationStyle = 0;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#preserveIconSpacing}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#preserveIconSpacing}
           attribute's value can be found in the {@link #MenuView} array.
 
 
@@ -3617,7 +3617,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:preserveIconSpacing
+          @attr name com.udacity.akkisathe2.popmymovies_s2:preserveIconSpacing
         */
         public static final int MenuView_preserveIconSpacing = 7;
         /** Attributes that can be used with a PopupWindow.
@@ -3627,7 +3627,7 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #PopupWindow_overlapAnchor com.udacity.akkisathe2.popmymovies_s1:overlapAnchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindow_overlapAnchor com.udacity.akkisathe2.popmymovies_s2:overlapAnchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindow_android_popupBackground
            @see #PopupWindow_overlapAnchor
@@ -3642,7 +3642,7 @@ containing a value of this type.
         */
         public static final int PopupWindow_android_popupBackground = 0;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#overlapAnchor}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#overlapAnchor}
           attribute's value can be found in the {@link #PopupWindow} array.
 
 
@@ -3652,7 +3652,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:overlapAnchor
+          @attr name com.udacity.akkisathe2.popmymovies_s2:overlapAnchor
         */
         public static final int PopupWindow_overlapAnchor = 1;
         /** Attributes that can be used with a PopupWindowBackgroundState.
@@ -3661,7 +3661,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.udacity.akkisathe2.popmymovies_s1:state_above_anchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.udacity.akkisathe2.popmymovies_s2:state_above_anchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindowBackgroundState_state_above_anchor
          */
@@ -3669,7 +3669,7 @@ containing a value of this type.
             0x7f010039
         };
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#state_above_anchor}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#state_above_anchor}
           attribute's value can be found in the {@link #PopupWindowBackgroundState} array.
 
 
@@ -3679,7 +3679,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:state_above_anchor
+          @attr name com.udacity.akkisathe2.popmymovies_s2:state_above_anchor
         */
         public static final int PopupWindowBackgroundState_state_above_anchor = 0;
         /** Attributes that can be used with a SearchView.
@@ -3692,19 +3692,19 @@ containing a value of this type.
            <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_closeIcon com.udacity.akkisathe2.popmymovies_s1:closeIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_commitIcon com.udacity.akkisathe2.popmymovies_s1:commitIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_defaultQueryHint com.udacity.akkisathe2.popmymovies_s1:defaultQueryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_goIcon com.udacity.akkisathe2.popmymovies_s1:goIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_iconifiedByDefault com.udacity.akkisathe2.popmymovies_s1:iconifiedByDefault}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_layout com.udacity.akkisathe2.popmymovies_s1:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryBackground com.udacity.akkisathe2.popmymovies_s1:queryBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryHint com.udacity.akkisathe2.popmymovies_s1:queryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchHintIcon com.udacity.akkisathe2.popmymovies_s1:searchHintIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchIcon com.udacity.akkisathe2.popmymovies_s1:searchIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_submitBackground com.udacity.akkisathe2.popmymovies_s1:submitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_suggestionRowLayout com.udacity.akkisathe2.popmymovies_s1:suggestionRowLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_voiceIcon com.udacity.akkisathe2.popmymovies_s1:voiceIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_closeIcon com.udacity.akkisathe2.popmymovies_s2:closeIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_commitIcon com.udacity.akkisathe2.popmymovies_s2:commitIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_defaultQueryHint com.udacity.akkisathe2.popmymovies_s2:defaultQueryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_goIcon com.udacity.akkisathe2.popmymovies_s2:goIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_iconifiedByDefault com.udacity.akkisathe2.popmymovies_s2:iconifiedByDefault}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_layout com.udacity.akkisathe2.popmymovies_s2:layout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryBackground com.udacity.akkisathe2.popmymovies_s2:queryBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryHint com.udacity.akkisathe2.popmymovies_s2:queryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchHintIcon com.udacity.akkisathe2.popmymovies_s2:searchHintIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchIcon com.udacity.akkisathe2.popmymovies_s2:searchIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_submitBackground com.udacity.akkisathe2.popmymovies_s2:submitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_suggestionRowLayout com.udacity.akkisathe2.popmymovies_s2:suggestionRowLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_voiceIcon com.udacity.akkisathe2.popmymovies_s2:voiceIcon}</code></td><td></td></tr>
            </table>
            @see #SearchView_android_focusable
            @see #SearchView_android_imeOptions
@@ -3756,27 +3756,27 @@ containing a value of this type.
         */
         public static final int SearchView_android_maxWidth = 1;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#closeIcon}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#closeIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:closeIcon
+          @attr name com.udacity.akkisathe2.popmymovies_s2:closeIcon
         */
         public static final int SearchView_closeIcon = 8;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#commitIcon}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#commitIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:commitIcon
+          @attr name com.udacity.akkisathe2.popmymovies_s2:commitIcon
         */
         public static final int SearchView_commitIcon = 13;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#defaultQueryHint}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#defaultQueryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -3786,21 +3786,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:defaultQueryHint
+          @attr name com.udacity.akkisathe2.popmymovies_s2:defaultQueryHint
         */
         public static final int SearchView_defaultQueryHint = 7;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#goIcon}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#goIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:goIcon
+          @attr name com.udacity.akkisathe2.popmymovies_s2:goIcon
         */
         public static final int SearchView_goIcon = 9;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#iconifiedByDefault}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#iconifiedByDefault}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -3810,31 +3810,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:iconifiedByDefault
+          @attr name com.udacity.akkisathe2.popmymovies_s2:iconifiedByDefault
         */
         public static final int SearchView_iconifiedByDefault = 5;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#layout}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#layout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:layout
+          @attr name com.udacity.akkisathe2.popmymovies_s2:layout
         */
         public static final int SearchView_layout = 4;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#queryBackground}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#queryBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:queryBackground
+          @attr name com.udacity.akkisathe2.popmymovies_s2:queryBackground
         */
         public static final int SearchView_queryBackground = 15;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#queryHint}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#queryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -3844,57 +3844,57 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:queryHint
+          @attr name com.udacity.akkisathe2.popmymovies_s2:queryHint
         */
         public static final int SearchView_queryHint = 6;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#searchHintIcon}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#searchHintIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:searchHintIcon
+          @attr name com.udacity.akkisathe2.popmymovies_s2:searchHintIcon
         */
         public static final int SearchView_searchHintIcon = 11;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#searchIcon}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#searchIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:searchIcon
+          @attr name com.udacity.akkisathe2.popmymovies_s2:searchIcon
         */
         public static final int SearchView_searchIcon = 10;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#submitBackground}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#submitBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:submitBackground
+          @attr name com.udacity.akkisathe2.popmymovies_s2:submitBackground
         */
         public static final int SearchView_submitBackground = 16;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#suggestionRowLayout}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#suggestionRowLayout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:suggestionRowLayout
+          @attr name com.udacity.akkisathe2.popmymovies_s2:suggestionRowLayout
         */
         public static final int SearchView_suggestionRowLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#voiceIcon}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#voiceIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:voiceIcon
+          @attr name com.udacity.akkisathe2.popmymovies_s2:voiceIcon
         */
         public static final int SearchView_voiceIcon = 12;
         /** Attributes that can be used with a Spinner.
@@ -3906,7 +3906,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #Spinner_android_dropDownWidth android:dropDownWidth}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_prompt android:prompt}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_popupTheme com.udacity.akkisathe2.popmymovies_s1:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_popupTheme com.udacity.akkisathe2.popmymovies_s2:popupTheme}</code></td><td></td></tr>
            </table>
            @see #Spinner_android_dropDownWidth
            @see #Spinner_android_popupBackground
@@ -3935,13 +3935,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Spinner_android_prompt = 1;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#popupTheme}
           attribute's value can be found in the {@link #Spinner} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:popupTheme
+          @attr name com.udacity.akkisathe2.popmymovies_s2:popupTheme
         */
         public static final int Spinner_popupTheme = 3;
         /** Attributes that can be used with a SwitchCompat.
@@ -3953,13 +3953,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_showText com.udacity.akkisathe2.popmymovies_s1:showText}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_splitTrack com.udacity.akkisathe2.popmymovies_s1:splitTrack}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchMinWidth com.udacity.akkisathe2.popmymovies_s1:switchMinWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchPadding com.udacity.akkisathe2.popmymovies_s1:switchPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.udacity.akkisathe2.popmymovies_s1:switchTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.udacity.akkisathe2.popmymovies_s1:thumbTextPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_track com.udacity.akkisathe2.popmymovies_s1:track}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_showText com.udacity.akkisathe2.popmymovies_s2:showText}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_splitTrack com.udacity.akkisathe2.popmymovies_s2:splitTrack}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchMinWidth com.udacity.akkisathe2.popmymovies_s2:switchMinWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchPadding com.udacity.akkisathe2.popmymovies_s2:switchPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.udacity.akkisathe2.popmymovies_s2:switchTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.udacity.akkisathe2.popmymovies_s2:thumbTextPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_track com.udacity.akkisathe2.popmymovies_s2:track}</code></td><td></td></tr>
            </table>
            @see #SwitchCompat_android_textOff
            @see #SwitchCompat_android_textOn
@@ -3996,7 +3996,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SwitchCompat_android_thumb = 2;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#showText}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#showText}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -4006,11 +4006,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:showText
+          @attr name com.udacity.akkisathe2.popmymovies_s2:showText
         */
         public static final int SwitchCompat_showText = 9;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#splitTrack}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#splitTrack}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -4020,11 +4020,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:splitTrack
+          @attr name com.udacity.akkisathe2.popmymovies_s2:splitTrack
         */
         public static final int SwitchCompat_splitTrack = 8;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#switchMinWidth}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#switchMinWidth}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -4036,11 +4036,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:switchMinWidth
+          @attr name com.udacity.akkisathe2.popmymovies_s2:switchMinWidth
         */
         public static final int SwitchCompat_switchMinWidth = 6;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#switchPadding}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#switchPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -4052,21 +4052,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:switchPadding
+          @attr name com.udacity.akkisathe2.popmymovies_s2:switchPadding
         */
         public static final int SwitchCompat_switchPadding = 7;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#switchTextAppearance}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#switchTextAppearance}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:switchTextAppearance
+          @attr name com.udacity.akkisathe2.popmymovies_s2:switchTextAppearance
         */
         public static final int SwitchCompat_switchTextAppearance = 5;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#thumbTextPadding}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#thumbTextPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -4078,17 +4078,17 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:thumbTextPadding
+          @attr name com.udacity.akkisathe2.popmymovies_s2:thumbTextPadding
         */
         public static final int SwitchCompat_thumbTextPadding = 4;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#track}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#track}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:track
+          @attr name com.udacity.akkisathe2.popmymovies_s2:track
         */
         public static final int SwitchCompat_track = 3;
         /** Attributes that can be used with a TextAppearance.
@@ -4105,7 +4105,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #TextAppearance_android_textSize android:textSize}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_textStyle android:textStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_typeface android:typeface}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextAppearance_textAllCaps com.udacity.akkisathe2.popmymovies_s1:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextAppearance_textAllCaps com.udacity.akkisathe2.popmymovies_s2:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #TextAppearance_android_shadowColor
            @see #TextAppearance_android_shadowDx
@@ -4171,14 +4171,14 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int TextAppearance_android_typeface = 1;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#textAllCaps}
           attribute's value can be found in the {@link #TextAppearance} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:textAllCaps
+          @attr name com.udacity.akkisathe2.popmymovies_s2:textAllCaps
         */
         public static final int TextAppearance_textAllCaps = 8;
         /** Attributes that can be used with a Theme.
@@ -4187,116 +4187,116 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #Theme_actionBarDivider com.udacity.akkisathe2.popmymovies_s1:actionBarDivider}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarItemBackground com.udacity.akkisathe2.popmymovies_s1:actionBarItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarPopupTheme com.udacity.akkisathe2.popmymovies_s1:actionBarPopupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarSize com.udacity.akkisathe2.popmymovies_s1:actionBarSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarSplitStyle com.udacity.akkisathe2.popmymovies_s1:actionBarSplitStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarStyle com.udacity.akkisathe2.popmymovies_s1:actionBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTabBarStyle com.udacity.akkisathe2.popmymovies_s1:actionBarTabBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTabStyle com.udacity.akkisathe2.popmymovies_s1:actionBarTabStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTabTextStyle com.udacity.akkisathe2.popmymovies_s1:actionBarTabTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTheme com.udacity.akkisathe2.popmymovies_s1:actionBarTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarWidgetTheme com.udacity.akkisathe2.popmymovies_s1:actionBarWidgetTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionButtonStyle com.udacity.akkisathe2.popmymovies_s1:actionButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionDropDownStyle com.udacity.akkisathe2.popmymovies_s1:actionDropDownStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionMenuTextAppearance com.udacity.akkisathe2.popmymovies_s1:actionMenuTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionMenuTextColor com.udacity.akkisathe2.popmymovies_s1:actionMenuTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeBackground com.udacity.akkisathe2.popmymovies_s1:actionModeBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCloseButtonStyle com.udacity.akkisathe2.popmymovies_s1:actionModeCloseButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCloseDrawable com.udacity.akkisathe2.popmymovies_s1:actionModeCloseDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCopyDrawable com.udacity.akkisathe2.popmymovies_s1:actionModeCopyDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCutDrawable com.udacity.akkisathe2.popmymovies_s1:actionModeCutDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeFindDrawable com.udacity.akkisathe2.popmymovies_s1:actionModeFindDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModePasteDrawable com.udacity.akkisathe2.popmymovies_s1:actionModePasteDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModePopupWindowStyle com.udacity.akkisathe2.popmymovies_s1:actionModePopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeSelectAllDrawable com.udacity.akkisathe2.popmymovies_s1:actionModeSelectAllDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeShareDrawable com.udacity.akkisathe2.popmymovies_s1:actionModeShareDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeSplitBackground com.udacity.akkisathe2.popmymovies_s1:actionModeSplitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeStyle com.udacity.akkisathe2.popmymovies_s1:actionModeStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeWebSearchDrawable com.udacity.akkisathe2.popmymovies_s1:actionModeWebSearchDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionOverflowButtonStyle com.udacity.akkisathe2.popmymovies_s1:actionOverflowButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionOverflowMenuStyle com.udacity.akkisathe2.popmymovies_s1:actionOverflowMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_activityChooserViewStyle com.udacity.akkisathe2.popmymovies_s1:activityChooserViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_alertDialogButtonGroupStyle com.udacity.akkisathe2.popmymovies_s1:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_alertDialogCenterButtons com.udacity.akkisathe2.popmymovies_s1:alertDialogCenterButtons}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_alertDialogStyle com.udacity.akkisathe2.popmymovies_s1:alertDialogStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_alertDialogTheme com.udacity.akkisathe2.popmymovies_s1:alertDialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarDivider com.udacity.akkisathe2.popmymovies_s2:actionBarDivider}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarItemBackground com.udacity.akkisathe2.popmymovies_s2:actionBarItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarPopupTheme com.udacity.akkisathe2.popmymovies_s2:actionBarPopupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarSize com.udacity.akkisathe2.popmymovies_s2:actionBarSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarSplitStyle com.udacity.akkisathe2.popmymovies_s2:actionBarSplitStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarStyle com.udacity.akkisathe2.popmymovies_s2:actionBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarTabBarStyle com.udacity.akkisathe2.popmymovies_s2:actionBarTabBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarTabStyle com.udacity.akkisathe2.popmymovies_s2:actionBarTabStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarTabTextStyle com.udacity.akkisathe2.popmymovies_s2:actionBarTabTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarTheme com.udacity.akkisathe2.popmymovies_s2:actionBarTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarWidgetTheme com.udacity.akkisathe2.popmymovies_s2:actionBarWidgetTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionButtonStyle com.udacity.akkisathe2.popmymovies_s2:actionButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionDropDownStyle com.udacity.akkisathe2.popmymovies_s2:actionDropDownStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionMenuTextAppearance com.udacity.akkisathe2.popmymovies_s2:actionMenuTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionMenuTextColor com.udacity.akkisathe2.popmymovies_s2:actionMenuTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeBackground com.udacity.akkisathe2.popmymovies_s2:actionModeBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeCloseButtonStyle com.udacity.akkisathe2.popmymovies_s2:actionModeCloseButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeCloseDrawable com.udacity.akkisathe2.popmymovies_s2:actionModeCloseDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeCopyDrawable com.udacity.akkisathe2.popmymovies_s2:actionModeCopyDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeCutDrawable com.udacity.akkisathe2.popmymovies_s2:actionModeCutDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeFindDrawable com.udacity.akkisathe2.popmymovies_s2:actionModeFindDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModePasteDrawable com.udacity.akkisathe2.popmymovies_s2:actionModePasteDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModePopupWindowStyle com.udacity.akkisathe2.popmymovies_s2:actionModePopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeSelectAllDrawable com.udacity.akkisathe2.popmymovies_s2:actionModeSelectAllDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeShareDrawable com.udacity.akkisathe2.popmymovies_s2:actionModeShareDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeSplitBackground com.udacity.akkisathe2.popmymovies_s2:actionModeSplitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeStyle com.udacity.akkisathe2.popmymovies_s2:actionModeStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeWebSearchDrawable com.udacity.akkisathe2.popmymovies_s2:actionModeWebSearchDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionOverflowButtonStyle com.udacity.akkisathe2.popmymovies_s2:actionOverflowButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionOverflowMenuStyle com.udacity.akkisathe2.popmymovies_s2:actionOverflowMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_activityChooserViewStyle com.udacity.akkisathe2.popmymovies_s2:activityChooserViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_alertDialogButtonGroupStyle com.udacity.akkisathe2.popmymovies_s2:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_alertDialogCenterButtons com.udacity.akkisathe2.popmymovies_s2:alertDialogCenterButtons}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_alertDialogStyle com.udacity.akkisathe2.popmymovies_s2:alertDialogStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_alertDialogTheme com.udacity.akkisathe2.popmymovies_s2:alertDialogTheme}</code></td><td></td></tr>
            <tr><td><code>{@link #Theme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #Theme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_autoCompleteTextViewStyle com.udacity.akkisathe2.popmymovies_s1:autoCompleteTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_borderlessButtonStyle com.udacity.akkisathe2.popmymovies_s1:borderlessButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarButtonStyle com.udacity.akkisathe2.popmymovies_s1:buttonBarButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarNegativeButtonStyle com.udacity.akkisathe2.popmymovies_s1:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarNeutralButtonStyle com.udacity.akkisathe2.popmymovies_s1:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarPositiveButtonStyle com.udacity.akkisathe2.popmymovies_s1:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarStyle com.udacity.akkisathe2.popmymovies_s1:buttonBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonStyle com.udacity.akkisathe2.popmymovies_s1:buttonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonStyleSmall com.udacity.akkisathe2.popmymovies_s1:buttonStyleSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_checkboxStyle com.udacity.akkisathe2.popmymovies_s1:checkboxStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_checkedTextViewStyle com.udacity.akkisathe2.popmymovies_s1:checkedTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorAccent com.udacity.akkisathe2.popmymovies_s1:colorAccent}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorButtonNormal com.udacity.akkisathe2.popmymovies_s1:colorButtonNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorControlActivated com.udacity.akkisathe2.popmymovies_s1:colorControlActivated}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorControlHighlight com.udacity.akkisathe2.popmymovies_s1:colorControlHighlight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorControlNormal com.udacity.akkisathe2.popmymovies_s1:colorControlNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorPrimary com.udacity.akkisathe2.popmymovies_s1:colorPrimary}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorPrimaryDark com.udacity.akkisathe2.popmymovies_s1:colorPrimaryDark}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorSwitchThumbNormal com.udacity.akkisathe2.popmymovies_s1:colorSwitchThumbNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_controlBackground com.udacity.akkisathe2.popmymovies_s1:controlBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dialogPreferredPadding com.udacity.akkisathe2.popmymovies_s1:dialogPreferredPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dialogTheme com.udacity.akkisathe2.popmymovies_s1:dialogTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dividerHorizontal com.udacity.akkisathe2.popmymovies_s1:dividerHorizontal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dividerVertical com.udacity.akkisathe2.popmymovies_s1:dividerVertical}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dropDownListViewStyle com.udacity.akkisathe2.popmymovies_s1:dropDownListViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dropdownListPreferredItemHeight com.udacity.akkisathe2.popmymovies_s1:dropdownListPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_editTextBackground com.udacity.akkisathe2.popmymovies_s1:editTextBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_editTextColor com.udacity.akkisathe2.popmymovies_s1:editTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_editTextStyle com.udacity.akkisathe2.popmymovies_s1:editTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_homeAsUpIndicator com.udacity.akkisathe2.popmymovies_s1:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_imageButtonStyle com.udacity.akkisathe2.popmymovies_s1:imageButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listChoiceBackgroundIndicator com.udacity.akkisathe2.popmymovies_s1:listChoiceBackgroundIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listDividerAlertDialog com.udacity.akkisathe2.popmymovies_s1:listDividerAlertDialog}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPopupWindowStyle com.udacity.akkisathe2.popmymovies_s1:listPopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemHeight com.udacity.akkisathe2.popmymovies_s1:listPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemHeightLarge com.udacity.akkisathe2.popmymovies_s1:listPreferredItemHeightLarge}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemHeightSmall com.udacity.akkisathe2.popmymovies_s1:listPreferredItemHeightSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemPaddingLeft com.udacity.akkisathe2.popmymovies_s1:listPreferredItemPaddingLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemPaddingRight com.udacity.akkisathe2.popmymovies_s1:listPreferredItemPaddingRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_panelBackground com.udacity.akkisathe2.popmymovies_s1:panelBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_panelMenuListTheme com.udacity.akkisathe2.popmymovies_s1:panelMenuListTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_panelMenuListWidth com.udacity.akkisathe2.popmymovies_s1:panelMenuListWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_popupMenuStyle com.udacity.akkisathe2.popmymovies_s1:popupMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_popupWindowStyle com.udacity.akkisathe2.popmymovies_s1:popupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_radioButtonStyle com.udacity.akkisathe2.popmymovies_s1:radioButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_ratingBarStyle com.udacity.akkisathe2.popmymovies_s1:ratingBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_searchViewStyle com.udacity.akkisathe2.popmymovies_s1:searchViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_seekBarStyle com.udacity.akkisathe2.popmymovies_s1:seekBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_selectableItemBackground com.udacity.akkisathe2.popmymovies_s1:selectableItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_selectableItemBackgroundBorderless com.udacity.akkisathe2.popmymovies_s1:selectableItemBackgroundBorderless}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_spinnerDropDownItemStyle com.udacity.akkisathe2.popmymovies_s1:spinnerDropDownItemStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_spinnerStyle com.udacity.akkisathe2.popmymovies_s1:spinnerStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_switchStyle com.udacity.akkisathe2.popmymovies_s1:switchStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceLargePopupMenu com.udacity.akkisathe2.popmymovies_s1:textAppearanceLargePopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceListItem com.udacity.akkisathe2.popmymovies_s1:textAppearanceListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceListItemSmall com.udacity.akkisathe2.popmymovies_s1:textAppearanceListItemSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceSearchResultSubtitle com.udacity.akkisathe2.popmymovies_s1:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceSearchResultTitle com.udacity.akkisathe2.popmymovies_s1:textAppearanceSearchResultTitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceSmallPopupMenu com.udacity.akkisathe2.popmymovies_s1:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textColorAlertDialogListItem com.udacity.akkisathe2.popmymovies_s1:textColorAlertDialogListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textColorSearchUrl com.udacity.akkisathe2.popmymovies_s1:textColorSearchUrl}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_toolbarNavigationButtonStyle com.udacity.akkisathe2.popmymovies_s1:toolbarNavigationButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_toolbarStyle com.udacity.akkisathe2.popmymovies_s1:toolbarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowActionBar com.udacity.akkisathe2.popmymovies_s1:windowActionBar}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowActionBarOverlay com.udacity.akkisathe2.popmymovies_s1:windowActionBarOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowActionModeOverlay com.udacity.akkisathe2.popmymovies_s1:windowActionModeOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedHeightMajor com.udacity.akkisathe2.popmymovies_s1:windowFixedHeightMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedHeightMinor com.udacity.akkisathe2.popmymovies_s1:windowFixedHeightMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedWidthMajor com.udacity.akkisathe2.popmymovies_s1:windowFixedWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedWidthMinor com.udacity.akkisathe2.popmymovies_s1:windowFixedWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowMinWidthMajor com.udacity.akkisathe2.popmymovies_s1:windowMinWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowMinWidthMinor com.udacity.akkisathe2.popmymovies_s1:windowMinWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowNoTitle com.udacity.akkisathe2.popmymovies_s1:windowNoTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_autoCompleteTextViewStyle com.udacity.akkisathe2.popmymovies_s2:autoCompleteTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_borderlessButtonStyle com.udacity.akkisathe2.popmymovies_s2:borderlessButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarButtonStyle com.udacity.akkisathe2.popmymovies_s2:buttonBarButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarNegativeButtonStyle com.udacity.akkisathe2.popmymovies_s2:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarNeutralButtonStyle com.udacity.akkisathe2.popmymovies_s2:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarPositiveButtonStyle com.udacity.akkisathe2.popmymovies_s2:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarStyle com.udacity.akkisathe2.popmymovies_s2:buttonBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonStyle com.udacity.akkisathe2.popmymovies_s2:buttonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonStyleSmall com.udacity.akkisathe2.popmymovies_s2:buttonStyleSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_checkboxStyle com.udacity.akkisathe2.popmymovies_s2:checkboxStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_checkedTextViewStyle com.udacity.akkisathe2.popmymovies_s2:checkedTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorAccent com.udacity.akkisathe2.popmymovies_s2:colorAccent}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorButtonNormal com.udacity.akkisathe2.popmymovies_s2:colorButtonNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorControlActivated com.udacity.akkisathe2.popmymovies_s2:colorControlActivated}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorControlHighlight com.udacity.akkisathe2.popmymovies_s2:colorControlHighlight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorControlNormal com.udacity.akkisathe2.popmymovies_s2:colorControlNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorPrimary com.udacity.akkisathe2.popmymovies_s2:colorPrimary}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorPrimaryDark com.udacity.akkisathe2.popmymovies_s2:colorPrimaryDark}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorSwitchThumbNormal com.udacity.akkisathe2.popmymovies_s2:colorSwitchThumbNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_controlBackground com.udacity.akkisathe2.popmymovies_s2:controlBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dialogPreferredPadding com.udacity.akkisathe2.popmymovies_s2:dialogPreferredPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dialogTheme com.udacity.akkisathe2.popmymovies_s2:dialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dividerHorizontal com.udacity.akkisathe2.popmymovies_s2:dividerHorizontal}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dividerVertical com.udacity.akkisathe2.popmymovies_s2:dividerVertical}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dropDownListViewStyle com.udacity.akkisathe2.popmymovies_s2:dropDownListViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dropdownListPreferredItemHeight com.udacity.akkisathe2.popmymovies_s2:dropdownListPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_editTextBackground com.udacity.akkisathe2.popmymovies_s2:editTextBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_editTextColor com.udacity.akkisathe2.popmymovies_s2:editTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_editTextStyle com.udacity.akkisathe2.popmymovies_s2:editTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_homeAsUpIndicator com.udacity.akkisathe2.popmymovies_s2:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_imageButtonStyle com.udacity.akkisathe2.popmymovies_s2:imageButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listChoiceBackgroundIndicator com.udacity.akkisathe2.popmymovies_s2:listChoiceBackgroundIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listDividerAlertDialog com.udacity.akkisathe2.popmymovies_s2:listDividerAlertDialog}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPopupWindowStyle com.udacity.akkisathe2.popmymovies_s2:listPopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemHeight com.udacity.akkisathe2.popmymovies_s2:listPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemHeightLarge com.udacity.akkisathe2.popmymovies_s2:listPreferredItemHeightLarge}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemHeightSmall com.udacity.akkisathe2.popmymovies_s2:listPreferredItemHeightSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemPaddingLeft com.udacity.akkisathe2.popmymovies_s2:listPreferredItemPaddingLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemPaddingRight com.udacity.akkisathe2.popmymovies_s2:listPreferredItemPaddingRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_panelBackground com.udacity.akkisathe2.popmymovies_s2:panelBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_panelMenuListTheme com.udacity.akkisathe2.popmymovies_s2:panelMenuListTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_panelMenuListWidth com.udacity.akkisathe2.popmymovies_s2:panelMenuListWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_popupMenuStyle com.udacity.akkisathe2.popmymovies_s2:popupMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_popupWindowStyle com.udacity.akkisathe2.popmymovies_s2:popupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_radioButtonStyle com.udacity.akkisathe2.popmymovies_s2:radioButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_ratingBarStyle com.udacity.akkisathe2.popmymovies_s2:ratingBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_searchViewStyle com.udacity.akkisathe2.popmymovies_s2:searchViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_seekBarStyle com.udacity.akkisathe2.popmymovies_s2:seekBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_selectableItemBackground com.udacity.akkisathe2.popmymovies_s2:selectableItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_selectableItemBackgroundBorderless com.udacity.akkisathe2.popmymovies_s2:selectableItemBackgroundBorderless}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_spinnerDropDownItemStyle com.udacity.akkisathe2.popmymovies_s2:spinnerDropDownItemStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_spinnerStyle com.udacity.akkisathe2.popmymovies_s2:spinnerStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_switchStyle com.udacity.akkisathe2.popmymovies_s2:switchStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceLargePopupMenu com.udacity.akkisathe2.popmymovies_s2:textAppearanceLargePopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceListItem com.udacity.akkisathe2.popmymovies_s2:textAppearanceListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceListItemSmall com.udacity.akkisathe2.popmymovies_s2:textAppearanceListItemSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceSearchResultSubtitle com.udacity.akkisathe2.popmymovies_s2:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceSearchResultTitle com.udacity.akkisathe2.popmymovies_s2:textAppearanceSearchResultTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceSmallPopupMenu com.udacity.akkisathe2.popmymovies_s2:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textColorAlertDialogListItem com.udacity.akkisathe2.popmymovies_s2:textColorAlertDialogListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textColorSearchUrl com.udacity.akkisathe2.popmymovies_s2:textColorSearchUrl}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_toolbarNavigationButtonStyle com.udacity.akkisathe2.popmymovies_s2:toolbarNavigationButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_toolbarStyle com.udacity.akkisathe2.popmymovies_s2:toolbarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowActionBar com.udacity.akkisathe2.popmymovies_s2:windowActionBar}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowActionBarOverlay com.udacity.akkisathe2.popmymovies_s2:windowActionBarOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowActionModeOverlay com.udacity.akkisathe2.popmymovies_s2:windowActionModeOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowFixedHeightMajor com.udacity.akkisathe2.popmymovies_s2:windowFixedHeightMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowFixedHeightMinor com.udacity.akkisathe2.popmymovies_s2:windowFixedHeightMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowFixedWidthMajor com.udacity.akkisathe2.popmymovies_s2:windowFixedWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowFixedWidthMinor com.udacity.akkisathe2.popmymovies_s2:windowFixedWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowMinWidthMajor com.udacity.akkisathe2.popmymovies_s2:windowMinWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowMinWidthMinor com.udacity.akkisathe2.popmymovies_s2:windowMinWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowNoTitle com.udacity.akkisathe2.popmymovies_s2:windowNoTitle}</code></td><td></td></tr>
            </table>
            @see #Theme_actionBarDivider
            @see #Theme_actionBarItemBackground
@@ -4440,37 +4440,37 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0100b8, 0x7f0100b9
         };
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#actionBarDivider}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#actionBarDivider}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:actionBarDivider
+          @attr name com.udacity.akkisathe2.popmymovies_s2:actionBarDivider
         */
         public static final int Theme_actionBarDivider = 23;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#actionBarItemBackground}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#actionBarItemBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:actionBarItemBackground
+          @attr name com.udacity.akkisathe2.popmymovies_s2:actionBarItemBackground
         */
         public static final int Theme_actionBarItemBackground = 24;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#actionBarPopupTheme}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#actionBarPopupTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:actionBarPopupTheme
+          @attr name com.udacity.akkisathe2.popmymovies_s2:actionBarPopupTheme
         */
         public static final int Theme_actionBarPopupTheme = 17;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#actionBarSize}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#actionBarSize}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4490,111 +4490,111 @@ containing a value of this type.
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>wrap_content</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.udacity.akkisathe2.popmymovies_s1:actionBarSize
+          @attr name com.udacity.akkisathe2.popmymovies_s2:actionBarSize
         */
         public static final int Theme_actionBarSize = 22;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#actionBarSplitStyle}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#actionBarSplitStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:actionBarSplitStyle
+          @attr name com.udacity.akkisathe2.popmymovies_s2:actionBarSplitStyle
         */
         public static final int Theme_actionBarSplitStyle = 19;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#actionBarStyle}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#actionBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:actionBarStyle
+          @attr name com.udacity.akkisathe2.popmymovies_s2:actionBarStyle
         */
         public static final int Theme_actionBarStyle = 18;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#actionBarTabBarStyle}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#actionBarTabBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:actionBarTabBarStyle
+          @attr name com.udacity.akkisathe2.popmymovies_s2:actionBarTabBarStyle
         */
         public static final int Theme_actionBarTabBarStyle = 13;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#actionBarTabStyle}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#actionBarTabStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:actionBarTabStyle
+          @attr name com.udacity.akkisathe2.popmymovies_s2:actionBarTabStyle
         */
         public static final int Theme_actionBarTabStyle = 12;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#actionBarTabTextStyle}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#actionBarTabTextStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:actionBarTabTextStyle
+          @attr name com.udacity.akkisathe2.popmymovies_s2:actionBarTabTextStyle
         */
         public static final int Theme_actionBarTabTextStyle = 14;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#actionBarTheme}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#actionBarTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:actionBarTheme
+          @attr name com.udacity.akkisathe2.popmymovies_s2:actionBarTheme
         */
         public static final int Theme_actionBarTheme = 20;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#actionBarWidgetTheme}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#actionBarWidgetTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:actionBarWidgetTheme
+          @attr name com.udacity.akkisathe2.popmymovies_s2:actionBarWidgetTheme
         */
         public static final int Theme_actionBarWidgetTheme = 21;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#actionButtonStyle}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#actionButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:actionButtonStyle
+          @attr name com.udacity.akkisathe2.popmymovies_s2:actionButtonStyle
         */
         public static final int Theme_actionButtonStyle = 49;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#actionDropDownStyle}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#actionDropDownStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:actionDropDownStyle
+          @attr name com.udacity.akkisathe2.popmymovies_s2:actionDropDownStyle
         */
         public static final int Theme_actionDropDownStyle = 45;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#actionMenuTextAppearance}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#actionMenuTextAppearance}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:actionMenuTextAppearance
+          @attr name com.udacity.akkisathe2.popmymovies_s2:actionMenuTextAppearance
         */
         public static final int Theme_actionMenuTextAppearance = 25;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#actionMenuTextColor}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#actionMenuTextColor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4602,181 +4602,181 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:actionMenuTextColor
+          @attr name com.udacity.akkisathe2.popmymovies_s2:actionMenuTextColor
         */
         public static final int Theme_actionMenuTextColor = 26;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#actionModeBackground}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#actionModeBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:actionModeBackground
+          @attr name com.udacity.akkisathe2.popmymovies_s2:actionModeBackground
         */
         public static final int Theme_actionModeBackground = 29;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#actionModeCloseButtonStyle}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#actionModeCloseButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:actionModeCloseButtonStyle
+          @attr name com.udacity.akkisathe2.popmymovies_s2:actionModeCloseButtonStyle
         */
         public static final int Theme_actionModeCloseButtonStyle = 28;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#actionModeCloseDrawable}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#actionModeCloseDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:actionModeCloseDrawable
+          @attr name com.udacity.akkisathe2.popmymovies_s2:actionModeCloseDrawable
         */
         public static final int Theme_actionModeCloseDrawable = 31;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#actionModeCopyDrawable}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#actionModeCopyDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:actionModeCopyDrawable
+          @attr name com.udacity.akkisathe2.popmymovies_s2:actionModeCopyDrawable
         */
         public static final int Theme_actionModeCopyDrawable = 33;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#actionModeCutDrawable}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#actionModeCutDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:actionModeCutDrawable
+          @attr name com.udacity.akkisathe2.popmymovies_s2:actionModeCutDrawable
         */
         public static final int Theme_actionModeCutDrawable = 32;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#actionModeFindDrawable}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#actionModeFindDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:actionModeFindDrawable
+          @attr name com.udacity.akkisathe2.popmymovies_s2:actionModeFindDrawable
         */
         public static final int Theme_actionModeFindDrawable = 37;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#actionModePasteDrawable}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#actionModePasteDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:actionModePasteDrawable
+          @attr name com.udacity.akkisathe2.popmymovies_s2:actionModePasteDrawable
         */
         public static final int Theme_actionModePasteDrawable = 34;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#actionModePopupWindowStyle}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#actionModePopupWindowStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:actionModePopupWindowStyle
+          @attr name com.udacity.akkisathe2.popmymovies_s2:actionModePopupWindowStyle
         */
         public static final int Theme_actionModePopupWindowStyle = 39;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#actionModeSelectAllDrawable}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#actionModeSelectAllDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:actionModeSelectAllDrawable
+          @attr name com.udacity.akkisathe2.popmymovies_s2:actionModeSelectAllDrawable
         */
         public static final int Theme_actionModeSelectAllDrawable = 35;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#actionModeShareDrawable}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#actionModeShareDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:actionModeShareDrawable
+          @attr name com.udacity.akkisathe2.popmymovies_s2:actionModeShareDrawable
         */
         public static final int Theme_actionModeShareDrawable = 36;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#actionModeSplitBackground}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#actionModeSplitBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:actionModeSplitBackground
+          @attr name com.udacity.akkisathe2.popmymovies_s2:actionModeSplitBackground
         */
         public static final int Theme_actionModeSplitBackground = 30;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#actionModeStyle}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#actionModeStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:actionModeStyle
+          @attr name com.udacity.akkisathe2.popmymovies_s2:actionModeStyle
         */
         public static final int Theme_actionModeStyle = 27;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#actionModeWebSearchDrawable}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#actionModeWebSearchDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:actionModeWebSearchDrawable
+          @attr name com.udacity.akkisathe2.popmymovies_s2:actionModeWebSearchDrawable
         */
         public static final int Theme_actionModeWebSearchDrawable = 38;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#actionOverflowButtonStyle}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#actionOverflowButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:actionOverflowButtonStyle
+          @attr name com.udacity.akkisathe2.popmymovies_s2:actionOverflowButtonStyle
         */
         public static final int Theme_actionOverflowButtonStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#actionOverflowMenuStyle}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#actionOverflowMenuStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:actionOverflowMenuStyle
+          @attr name com.udacity.akkisathe2.popmymovies_s2:actionOverflowMenuStyle
         */
         public static final int Theme_actionOverflowMenuStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#activityChooserViewStyle}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#activityChooserViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:activityChooserViewStyle
+          @attr name com.udacity.akkisathe2.popmymovies_s2:activityChooserViewStyle
         */
         public static final int Theme_activityChooserViewStyle = 57;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#alertDialogButtonGroupStyle}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#alertDialogButtonGroupStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:alertDialogButtonGroupStyle
+          @attr name com.udacity.akkisathe2.popmymovies_s2:alertDialogButtonGroupStyle
         */
         public static final int Theme_alertDialogButtonGroupStyle = 92;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#alertDialogCenterButtons}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#alertDialogCenterButtons}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4786,27 +4786,27 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:alertDialogCenterButtons
+          @attr name com.udacity.akkisathe2.popmymovies_s2:alertDialogCenterButtons
         */
         public static final int Theme_alertDialogCenterButtons = 93;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#alertDialogStyle}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#alertDialogStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:alertDialogStyle
+          @attr name com.udacity.akkisathe2.popmymovies_s2:alertDialogStyle
         */
         public static final int Theme_alertDialogStyle = 91;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#alertDialogTheme}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#alertDialogTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:alertDialogTheme
+          @attr name com.udacity.akkisathe2.popmymovies_s2:alertDialogTheme
         */
         public static final int Theme_alertDialogTheme = 94;
         /**
@@ -4822,117 +4822,117 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_android_windowIsFloating = 0;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#autoCompleteTextViewStyle}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#autoCompleteTextViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:autoCompleteTextViewStyle
+          @attr name com.udacity.akkisathe2.popmymovies_s2:autoCompleteTextViewStyle
         */
         public static final int Theme_autoCompleteTextViewStyle = 99;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#borderlessButtonStyle}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#borderlessButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:borderlessButtonStyle
+          @attr name com.udacity.akkisathe2.popmymovies_s2:borderlessButtonStyle
         */
         public static final int Theme_borderlessButtonStyle = 54;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#buttonBarButtonStyle}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#buttonBarButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:buttonBarButtonStyle
+          @attr name com.udacity.akkisathe2.popmymovies_s2:buttonBarButtonStyle
         */
         public static final int Theme_buttonBarButtonStyle = 51;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#buttonBarNegativeButtonStyle}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#buttonBarNegativeButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:buttonBarNegativeButtonStyle
+          @attr name com.udacity.akkisathe2.popmymovies_s2:buttonBarNegativeButtonStyle
         */
         public static final int Theme_buttonBarNegativeButtonStyle = 97;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#buttonBarNeutralButtonStyle}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#buttonBarNeutralButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:buttonBarNeutralButtonStyle
+          @attr name com.udacity.akkisathe2.popmymovies_s2:buttonBarNeutralButtonStyle
         */
         public static final int Theme_buttonBarNeutralButtonStyle = 98;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#buttonBarPositiveButtonStyle}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#buttonBarPositiveButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:buttonBarPositiveButtonStyle
+          @attr name com.udacity.akkisathe2.popmymovies_s2:buttonBarPositiveButtonStyle
         */
         public static final int Theme_buttonBarPositiveButtonStyle = 96;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#buttonBarStyle}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#buttonBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:buttonBarStyle
+          @attr name com.udacity.akkisathe2.popmymovies_s2:buttonBarStyle
         */
         public static final int Theme_buttonBarStyle = 50;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#buttonStyle}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#buttonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:buttonStyle
+          @attr name com.udacity.akkisathe2.popmymovies_s2:buttonStyle
         */
         public static final int Theme_buttonStyle = 100;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#buttonStyleSmall}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#buttonStyleSmall}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:buttonStyleSmall
+          @attr name com.udacity.akkisathe2.popmymovies_s2:buttonStyleSmall
         */
         public static final int Theme_buttonStyleSmall = 101;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#checkboxStyle}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#checkboxStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:checkboxStyle
+          @attr name com.udacity.akkisathe2.popmymovies_s2:checkboxStyle
         */
         public static final int Theme_checkboxStyle = 102;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#checkedTextViewStyle}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#checkedTextViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:checkedTextViewStyle
+          @attr name com.udacity.akkisathe2.popmymovies_s2:checkedTextViewStyle
         */
         public static final int Theme_checkedTextViewStyle = 103;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#colorAccent}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#colorAccent}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4943,11 +4943,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:colorAccent
+          @attr name com.udacity.akkisathe2.popmymovies_s2:colorAccent
         */
         public static final int Theme_colorAccent = 84;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#colorButtonNormal}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#colorButtonNormal}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4958,11 +4958,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:colorButtonNormal
+          @attr name com.udacity.akkisathe2.popmymovies_s2:colorButtonNormal
         */
         public static final int Theme_colorButtonNormal = 88;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#colorControlActivated}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#colorControlActivated}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4973,11 +4973,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:colorControlActivated
+          @attr name com.udacity.akkisathe2.popmymovies_s2:colorControlActivated
         */
         public static final int Theme_colorControlActivated = 86;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#colorControlHighlight}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#colorControlHighlight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4988,11 +4988,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:colorControlHighlight
+          @attr name com.udacity.akkisathe2.popmymovies_s2:colorControlHighlight
         */
         public static final int Theme_colorControlHighlight = 87;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#colorControlNormal}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#colorControlNormal}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5003,11 +5003,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:colorControlNormal
+          @attr name com.udacity.akkisathe2.popmymovies_s2:colorControlNormal
         */
         public static final int Theme_colorControlNormal = 85;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#colorPrimary}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#colorPrimary}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5018,11 +5018,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:colorPrimary
+          @attr name com.udacity.akkisathe2.popmymovies_s2:colorPrimary
         */
         public static final int Theme_colorPrimary = 82;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#colorPrimaryDark}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#colorPrimaryDark}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5033,11 +5033,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:colorPrimaryDark
+          @attr name com.udacity.akkisathe2.popmymovies_s2:colorPrimaryDark
         */
         public static final int Theme_colorPrimaryDark = 83;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#colorSwitchThumbNormal}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#colorSwitchThumbNormal}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5048,21 +5048,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:colorSwitchThumbNormal
+          @attr name com.udacity.akkisathe2.popmymovies_s2:colorSwitchThumbNormal
         */
         public static final int Theme_colorSwitchThumbNormal = 89;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#controlBackground}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#controlBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:controlBackground
+          @attr name com.udacity.akkisathe2.popmymovies_s2:controlBackground
         */
         public static final int Theme_controlBackground = 90;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#dialogPreferredPadding}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#dialogPreferredPadding}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5074,51 +5074,51 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:dialogPreferredPadding
+          @attr name com.udacity.akkisathe2.popmymovies_s2:dialogPreferredPadding
         */
         public static final int Theme_dialogPreferredPadding = 43;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#dialogTheme}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#dialogTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:dialogTheme
+          @attr name com.udacity.akkisathe2.popmymovies_s2:dialogTheme
         */
         public static final int Theme_dialogTheme = 42;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#dividerHorizontal}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#dividerHorizontal}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:dividerHorizontal
+          @attr name com.udacity.akkisathe2.popmymovies_s2:dividerHorizontal
         */
         public static final int Theme_dividerHorizontal = 56;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#dividerVertical}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#dividerVertical}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:dividerVertical
+          @attr name com.udacity.akkisathe2.popmymovies_s2:dividerVertical
         */
         public static final int Theme_dividerVertical = 55;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#dropDownListViewStyle}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#dropDownListViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:dropDownListViewStyle
+          @attr name com.udacity.akkisathe2.popmymovies_s2:dropDownListViewStyle
         */
         public static final int Theme_dropDownListViewStyle = 74;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#dropdownListPreferredItemHeight}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#dropdownListPreferredItemHeight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5130,21 +5130,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:dropdownListPreferredItemHeight
+          @attr name com.udacity.akkisathe2.popmymovies_s2:dropdownListPreferredItemHeight
         */
         public static final int Theme_dropdownListPreferredItemHeight = 46;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#editTextBackground}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#editTextBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:editTextBackground
+          @attr name com.udacity.akkisathe2.popmymovies_s2:editTextBackground
         */
         public static final int Theme_editTextBackground = 63;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#editTextColor}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#editTextColor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5152,71 +5152,71 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:editTextColor
+          @attr name com.udacity.akkisathe2.popmymovies_s2:editTextColor
         */
         public static final int Theme_editTextColor = 62;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#editTextStyle}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#editTextStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:editTextStyle
+          @attr name com.udacity.akkisathe2.popmymovies_s2:editTextStyle
         */
         public static final int Theme_editTextStyle = 104;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:homeAsUpIndicator
+          @attr name com.udacity.akkisathe2.popmymovies_s2:homeAsUpIndicator
         */
         public static final int Theme_homeAsUpIndicator = 48;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#imageButtonStyle}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#imageButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:imageButtonStyle
+          @attr name com.udacity.akkisathe2.popmymovies_s2:imageButtonStyle
         */
         public static final int Theme_imageButtonStyle = 64;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#listChoiceBackgroundIndicator}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#listChoiceBackgroundIndicator}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:listChoiceBackgroundIndicator
+          @attr name com.udacity.akkisathe2.popmymovies_s2:listChoiceBackgroundIndicator
         */
         public static final int Theme_listChoiceBackgroundIndicator = 81;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#listDividerAlertDialog}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#listDividerAlertDialog}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:listDividerAlertDialog
+          @attr name com.udacity.akkisathe2.popmymovies_s2:listDividerAlertDialog
         */
         public static final int Theme_listDividerAlertDialog = 44;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#listPopupWindowStyle}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#listPopupWindowStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:listPopupWindowStyle
+          @attr name com.udacity.akkisathe2.popmymovies_s2:listPopupWindowStyle
         */
         public static final int Theme_listPopupWindowStyle = 75;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#listPreferredItemHeight}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#listPreferredItemHeight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5228,11 +5228,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:listPreferredItemHeight
+          @attr name com.udacity.akkisathe2.popmymovies_s2:listPreferredItemHeight
         */
         public static final int Theme_listPreferredItemHeight = 69;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#listPreferredItemHeightLarge}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#listPreferredItemHeightLarge}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5244,11 +5244,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:listPreferredItemHeightLarge
+          @attr name com.udacity.akkisathe2.popmymovies_s2:listPreferredItemHeightLarge
         */
         public static final int Theme_listPreferredItemHeightLarge = 71;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#listPreferredItemHeightSmall}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#listPreferredItemHeightSmall}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5260,11 +5260,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:listPreferredItemHeightSmall
+          @attr name com.udacity.akkisathe2.popmymovies_s2:listPreferredItemHeightSmall
         */
         public static final int Theme_listPreferredItemHeightSmall = 70;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#listPreferredItemPaddingLeft}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#listPreferredItemPaddingLeft}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5276,11 +5276,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:listPreferredItemPaddingLeft
+          @attr name com.udacity.akkisathe2.popmymovies_s2:listPreferredItemPaddingLeft
         */
         public static final int Theme_listPreferredItemPaddingLeft = 72;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#listPreferredItemPaddingRight}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#listPreferredItemPaddingRight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5292,31 +5292,31 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:listPreferredItemPaddingRight
+          @attr name com.udacity.akkisathe2.popmymovies_s2:listPreferredItemPaddingRight
         */
         public static final int Theme_listPreferredItemPaddingRight = 73;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#panelBackground}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#panelBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:panelBackground
+          @attr name com.udacity.akkisathe2.popmymovies_s2:panelBackground
         */
         public static final int Theme_panelBackground = 78;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#panelMenuListTheme}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#panelMenuListTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:panelMenuListTheme
+          @attr name com.udacity.akkisathe2.popmymovies_s2:panelMenuListTheme
         */
         public static final int Theme_panelMenuListTheme = 80;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#panelMenuListWidth}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#panelMenuListWidth}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5328,181 +5328,181 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:panelMenuListWidth
+          @attr name com.udacity.akkisathe2.popmymovies_s2:panelMenuListWidth
         */
         public static final int Theme_panelMenuListWidth = 79;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#popupMenuStyle}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#popupMenuStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:popupMenuStyle
+          @attr name com.udacity.akkisathe2.popmymovies_s2:popupMenuStyle
         */
         public static final int Theme_popupMenuStyle = 60;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#popupWindowStyle}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#popupWindowStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:popupWindowStyle
+          @attr name com.udacity.akkisathe2.popmymovies_s2:popupWindowStyle
         */
         public static final int Theme_popupWindowStyle = 61;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#radioButtonStyle}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#radioButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:radioButtonStyle
+          @attr name com.udacity.akkisathe2.popmymovies_s2:radioButtonStyle
         */
         public static final int Theme_radioButtonStyle = 105;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#ratingBarStyle}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#ratingBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:ratingBarStyle
+          @attr name com.udacity.akkisathe2.popmymovies_s2:ratingBarStyle
         */
         public static final int Theme_ratingBarStyle = 106;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#searchViewStyle}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#searchViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:searchViewStyle
+          @attr name com.udacity.akkisathe2.popmymovies_s2:searchViewStyle
         */
         public static final int Theme_searchViewStyle = 68;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#seekBarStyle}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#seekBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:seekBarStyle
+          @attr name com.udacity.akkisathe2.popmymovies_s2:seekBarStyle
         */
         public static final int Theme_seekBarStyle = 107;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#selectableItemBackground}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#selectableItemBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:selectableItemBackground
+          @attr name com.udacity.akkisathe2.popmymovies_s2:selectableItemBackground
         */
         public static final int Theme_selectableItemBackground = 52;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#selectableItemBackgroundBorderless}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#selectableItemBackgroundBorderless}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:selectableItemBackgroundBorderless
+          @attr name com.udacity.akkisathe2.popmymovies_s2:selectableItemBackgroundBorderless
         */
         public static final int Theme_selectableItemBackgroundBorderless = 53;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#spinnerDropDownItemStyle}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#spinnerDropDownItemStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:spinnerDropDownItemStyle
+          @attr name com.udacity.akkisathe2.popmymovies_s2:spinnerDropDownItemStyle
         */
         public static final int Theme_spinnerDropDownItemStyle = 47;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#spinnerStyle}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#spinnerStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:spinnerStyle
+          @attr name com.udacity.akkisathe2.popmymovies_s2:spinnerStyle
         */
         public static final int Theme_spinnerStyle = 108;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#switchStyle}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#switchStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:switchStyle
+          @attr name com.udacity.akkisathe2.popmymovies_s2:switchStyle
         */
         public static final int Theme_switchStyle = 109;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#textAppearanceLargePopupMenu}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#textAppearanceLargePopupMenu}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:textAppearanceLargePopupMenu
+          @attr name com.udacity.akkisathe2.popmymovies_s2:textAppearanceLargePopupMenu
         */
         public static final int Theme_textAppearanceLargePopupMenu = 40;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#textAppearanceListItem}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#textAppearanceListItem}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:textAppearanceListItem
+          @attr name com.udacity.akkisathe2.popmymovies_s2:textAppearanceListItem
         */
         public static final int Theme_textAppearanceListItem = 76;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#textAppearanceListItemSmall}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#textAppearanceListItemSmall}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:textAppearanceListItemSmall
+          @attr name com.udacity.akkisathe2.popmymovies_s2:textAppearanceListItemSmall
         */
         public static final int Theme_textAppearanceListItemSmall = 77;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#textAppearanceSearchResultSubtitle}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#textAppearanceSearchResultSubtitle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:textAppearanceSearchResultSubtitle
+          @attr name com.udacity.akkisathe2.popmymovies_s2:textAppearanceSearchResultSubtitle
         */
         public static final int Theme_textAppearanceSearchResultSubtitle = 66;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#textAppearanceSearchResultTitle}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#textAppearanceSearchResultTitle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:textAppearanceSearchResultTitle
+          @attr name com.udacity.akkisathe2.popmymovies_s2:textAppearanceSearchResultTitle
         */
         public static final int Theme_textAppearanceSearchResultTitle = 65;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#textAppearanceSmallPopupMenu}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#textAppearanceSmallPopupMenu}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:textAppearanceSmallPopupMenu
+          @attr name com.udacity.akkisathe2.popmymovies_s2:textAppearanceSmallPopupMenu
         */
         public static final int Theme_textAppearanceSmallPopupMenu = 41;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#textColorAlertDialogListItem}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#textColorAlertDialogListItem}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5510,11 +5510,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:textColorAlertDialogListItem
+          @attr name com.udacity.akkisathe2.popmymovies_s2:textColorAlertDialogListItem
         */
         public static final int Theme_textColorAlertDialogListItem = 95;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#textColorSearchUrl}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#textColorSearchUrl}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5522,31 +5522,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:textColorSearchUrl
+          @attr name com.udacity.akkisathe2.popmymovies_s2:textColorSearchUrl
         */
         public static final int Theme_textColorSearchUrl = 67;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#toolbarNavigationButtonStyle}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#toolbarNavigationButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:toolbarNavigationButtonStyle
+          @attr name com.udacity.akkisathe2.popmymovies_s2:toolbarNavigationButtonStyle
         */
         public static final int Theme_toolbarNavigationButtonStyle = 59;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#toolbarStyle}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#toolbarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:toolbarStyle
+          @attr name com.udacity.akkisathe2.popmymovies_s2:toolbarStyle
         */
         public static final int Theme_toolbarStyle = 58;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#windowActionBar}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#windowActionBar}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5556,11 +5556,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:windowActionBar
+          @attr name com.udacity.akkisathe2.popmymovies_s2:windowActionBar
         */
         public static final int Theme_windowActionBar = 2;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#windowActionBarOverlay}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#windowActionBarOverlay}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5570,11 +5570,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:windowActionBarOverlay
+          @attr name com.udacity.akkisathe2.popmymovies_s2:windowActionBarOverlay
         */
         public static final int Theme_windowActionBarOverlay = 4;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#windowActionModeOverlay}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#windowActionModeOverlay}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5584,11 +5584,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:windowActionModeOverlay
+          @attr name com.udacity.akkisathe2.popmymovies_s2:windowActionModeOverlay
         */
         public static final int Theme_windowActionModeOverlay = 5;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#windowFixedHeightMajor}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#windowFixedHeightMajor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5603,11 +5603,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:windowFixedHeightMajor
+          @attr name com.udacity.akkisathe2.popmymovies_s2:windowFixedHeightMajor
         */
         public static final int Theme_windowFixedHeightMajor = 9;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#windowFixedHeightMinor}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#windowFixedHeightMinor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5622,11 +5622,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:windowFixedHeightMinor
+          @attr name com.udacity.akkisathe2.popmymovies_s2:windowFixedHeightMinor
         */
         public static final int Theme_windowFixedHeightMinor = 7;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#windowFixedWidthMajor}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#windowFixedWidthMajor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5641,11 +5641,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:windowFixedWidthMajor
+          @attr name com.udacity.akkisathe2.popmymovies_s2:windowFixedWidthMajor
         */
         public static final int Theme_windowFixedWidthMajor = 6;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#windowFixedWidthMinor}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#windowFixedWidthMinor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5660,11 +5660,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:windowFixedWidthMinor
+          @attr name com.udacity.akkisathe2.popmymovies_s2:windowFixedWidthMinor
         */
         public static final int Theme_windowFixedWidthMinor = 8;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#windowMinWidthMajor}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#windowMinWidthMajor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5679,11 +5679,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:windowMinWidthMajor
+          @attr name com.udacity.akkisathe2.popmymovies_s2:windowMinWidthMajor
         */
         public static final int Theme_windowMinWidthMajor = 10;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#windowMinWidthMinor}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#windowMinWidthMinor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5698,11 +5698,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:windowMinWidthMinor
+          @attr name com.udacity.akkisathe2.popmymovies_s2:windowMinWidthMinor
         */
         public static final int Theme_windowMinWidthMinor = 11;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#windowNoTitle}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#windowNoTitle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5712,7 +5712,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:windowNoTitle
+          @attr name com.udacity.akkisathe2.popmymovies_s2:windowNoTitle
         */
         public static final int Theme_windowNoTitle = 3;
         /** Attributes that can be used with a Toolbar.
@@ -5723,29 +5723,29 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseContentDescription com.udacity.akkisathe2.popmymovies_s1:collapseContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseIcon com.udacity.akkisathe2.popmymovies_s1:collapseIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetEnd com.udacity.akkisathe2.popmymovies_s1:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetLeft com.udacity.akkisathe2.popmymovies_s1:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetRight com.udacity.akkisathe2.popmymovies_s1:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetStart com.udacity.akkisathe2.popmymovies_s1:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logo com.udacity.akkisathe2.popmymovies_s1:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logoDescription com.udacity.akkisathe2.popmymovies_s1:logoDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_maxButtonHeight com.udacity.akkisathe2.popmymovies_s1:maxButtonHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationContentDescription com.udacity.akkisathe2.popmymovies_s1:navigationContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationIcon com.udacity.akkisathe2.popmymovies_s1:navigationIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_popupTheme com.udacity.akkisathe2.popmymovies_s1:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitle com.udacity.akkisathe2.popmymovies_s1:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.udacity.akkisathe2.popmymovies_s1:subtitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextColor com.udacity.akkisathe2.popmymovies_s1:subtitleTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_title com.udacity.akkisathe2.popmymovies_s1:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginBottom com.udacity.akkisathe2.popmymovies_s1:titleMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginEnd com.udacity.akkisathe2.popmymovies_s1:titleMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginStart com.udacity.akkisathe2.popmymovies_s1:titleMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginTop com.udacity.akkisathe2.popmymovies_s1:titleMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMargins com.udacity.akkisathe2.popmymovies_s1:titleMargins}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextAppearance com.udacity.akkisathe2.popmymovies_s1:titleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextColor com.udacity.akkisathe2.popmymovies_s1:titleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseContentDescription com.udacity.akkisathe2.popmymovies_s2:collapseContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseIcon com.udacity.akkisathe2.popmymovies_s2:collapseIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetEnd com.udacity.akkisathe2.popmymovies_s2:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetLeft com.udacity.akkisathe2.popmymovies_s2:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetRight com.udacity.akkisathe2.popmymovies_s2:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetStart com.udacity.akkisathe2.popmymovies_s2:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logo com.udacity.akkisathe2.popmymovies_s2:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logoDescription com.udacity.akkisathe2.popmymovies_s2:logoDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_maxButtonHeight com.udacity.akkisathe2.popmymovies_s2:maxButtonHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationContentDescription com.udacity.akkisathe2.popmymovies_s2:navigationContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationIcon com.udacity.akkisathe2.popmymovies_s2:navigationIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_popupTheme com.udacity.akkisathe2.popmymovies_s2:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitle com.udacity.akkisathe2.popmymovies_s2:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.udacity.akkisathe2.popmymovies_s2:subtitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextColor com.udacity.akkisathe2.popmymovies_s2:subtitleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_title com.udacity.akkisathe2.popmymovies_s2:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginBottom com.udacity.akkisathe2.popmymovies_s2:titleMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginEnd com.udacity.akkisathe2.popmymovies_s2:titleMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginStart com.udacity.akkisathe2.popmymovies_s2:titleMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginTop com.udacity.akkisathe2.popmymovies_s2:titleMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMargins com.udacity.akkisathe2.popmymovies_s2:titleMargins}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextAppearance com.udacity.akkisathe2.popmymovies_s2:titleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextColor com.udacity.akkisathe2.popmymovies_s2:titleTextColor}</code></td><td></td></tr>
            </table>
            @see #Toolbar_android_gravity
            @see #Toolbar_android_minHeight
@@ -5795,7 +5795,7 @@ containing a value of this type.
         */
         public static final int Toolbar_android_minHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#collapseContentDescription}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#collapseContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -5805,21 +5805,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:collapseContentDescription
+          @attr name com.udacity.akkisathe2.popmymovies_s2:collapseContentDescription
         */
         public static final int Toolbar_collapseContentDescription = 19;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#collapseIcon}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#collapseIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:collapseIcon
+          @attr name com.udacity.akkisathe2.popmymovies_s2:collapseIcon
         */
         public static final int Toolbar_collapseIcon = 18;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -5831,11 +5831,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:contentInsetEnd
+          @attr name com.udacity.akkisathe2.popmymovies_s2:contentInsetEnd
         */
         public static final int Toolbar_contentInsetEnd = 6;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -5847,11 +5847,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:contentInsetLeft
+          @attr name com.udacity.akkisathe2.popmymovies_s2:contentInsetLeft
         */
         public static final int Toolbar_contentInsetLeft = 7;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -5863,11 +5863,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:contentInsetRight
+          @attr name com.udacity.akkisathe2.popmymovies_s2:contentInsetRight
         */
         public static final int Toolbar_contentInsetRight = 8;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -5879,21 +5879,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:contentInsetStart
+          @attr name com.udacity.akkisathe2.popmymovies_s2:contentInsetStart
         */
         public static final int Toolbar_contentInsetStart = 5;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#logo}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#logo}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:logo
+          @attr name com.udacity.akkisathe2.popmymovies_s2:logo
         */
         public static final int Toolbar_logo = 4;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#logoDescription}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#logoDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -5903,11 +5903,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:logoDescription
+          @attr name com.udacity.akkisathe2.popmymovies_s2:logoDescription
         */
         public static final int Toolbar_logoDescription = 22;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#maxButtonHeight}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#maxButtonHeight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -5919,11 +5919,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:maxButtonHeight
+          @attr name com.udacity.akkisathe2.popmymovies_s2:maxButtonHeight
         */
         public static final int Toolbar_maxButtonHeight = 17;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#navigationContentDescription}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#navigationContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -5933,31 +5933,31 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:navigationContentDescription
+          @attr name com.udacity.akkisathe2.popmymovies_s2:navigationContentDescription
         */
         public static final int Toolbar_navigationContentDescription = 21;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#navigationIcon}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#navigationIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:navigationIcon
+          @attr name com.udacity.akkisathe2.popmymovies_s2:navigationIcon
         */
         public static final int Toolbar_navigationIcon = 20;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#popupTheme}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:popupTheme
+          @attr name com.udacity.akkisathe2.popmymovies_s2:popupTheme
         */
         public static final int Toolbar_popupTheme = 9;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#subtitle}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -5967,21 +5967,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:subtitle
+          @attr name com.udacity.akkisathe2.popmymovies_s2:subtitle
         */
         public static final int Toolbar_subtitle = 3;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#subtitleTextAppearance}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#subtitleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:subtitleTextAppearance
+          @attr name com.udacity.akkisathe2.popmymovies_s2:subtitleTextAppearance
         */
         public static final int Toolbar_subtitleTextAppearance = 11;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#subtitleTextColor}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#subtitleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -5992,11 +5992,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:subtitleTextColor
+          @attr name com.udacity.akkisathe2.popmymovies_s2:subtitleTextColor
         */
         public static final int Toolbar_subtitleTextColor = 24;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#title}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#title}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6006,11 +6006,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:title
+          @attr name com.udacity.akkisathe2.popmymovies_s2:title
         */
         public static final int Toolbar_title = 2;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#titleMarginBottom}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#titleMarginBottom}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6022,11 +6022,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:titleMarginBottom
+          @attr name com.udacity.akkisathe2.popmymovies_s2:titleMarginBottom
         */
         public static final int Toolbar_titleMarginBottom = 16;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#titleMarginEnd}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#titleMarginEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6038,11 +6038,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:titleMarginEnd
+          @attr name com.udacity.akkisathe2.popmymovies_s2:titleMarginEnd
         */
         public static final int Toolbar_titleMarginEnd = 14;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#titleMarginStart}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#titleMarginStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6054,11 +6054,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:titleMarginStart
+          @attr name com.udacity.akkisathe2.popmymovies_s2:titleMarginStart
         */
         public static final int Toolbar_titleMarginStart = 13;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#titleMarginTop}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#titleMarginTop}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6070,11 +6070,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:titleMarginTop
+          @attr name com.udacity.akkisathe2.popmymovies_s2:titleMarginTop
         */
         public static final int Toolbar_titleMarginTop = 15;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#titleMargins}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#titleMargins}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6086,21 +6086,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:titleMargins
+          @attr name com.udacity.akkisathe2.popmymovies_s2:titleMargins
         */
         public static final int Toolbar_titleMargins = 12;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#titleTextAppearance}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#titleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:titleTextAppearance
+          @attr name com.udacity.akkisathe2.popmymovies_s2:titleTextAppearance
         */
         public static final int Toolbar_titleTextAppearance = 10;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#titleTextColor}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#titleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6111,7 +6111,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:titleTextColor
+          @attr name com.udacity.akkisathe2.popmymovies_s2:titleTextColor
         */
         public static final int Toolbar_titleTextColor = 23;
         /** Attributes that can be used with a View.
@@ -6122,9 +6122,9 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
            <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingEnd com.udacity.akkisathe2.popmymovies_s1:paddingEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingStart com.udacity.akkisathe2.popmymovies_s1:paddingStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_theme com.udacity.akkisathe2.popmymovies_s1:theme}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingEnd com.udacity.akkisathe2.popmymovies_s2:paddingEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingStart com.udacity.akkisathe2.popmymovies_s2:paddingStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_theme com.udacity.akkisathe2.popmymovies_s2:theme}</code></td><td></td></tr>
            </table>
            @see #View_android_focusable
            @see #View_android_theme
@@ -6149,7 +6149,7 @@ containing a value of this type.
         */
         public static final int View_android_theme = 0;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#paddingEnd}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#paddingEnd}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -6161,11 +6161,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:paddingEnd
+          @attr name com.udacity.akkisathe2.popmymovies_s2:paddingEnd
         */
         public static final int View_paddingEnd = 3;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#paddingStart}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#paddingStart}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -6177,17 +6177,17 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:paddingStart
+          @attr name com.udacity.akkisathe2.popmymovies_s2:paddingStart
         */
         public static final int View_paddingStart = 2;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#theme}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#theme}
           attribute's value can be found in the {@link #View} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.udacity.akkisathe2.popmymovies_s1:theme
+          @attr name com.udacity.akkisathe2.popmymovies_s2:theme
         */
         public static final int View_theme = 4;
         /** Attributes that can be used with a ViewBackgroundHelper.
@@ -6197,8 +6197,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #ViewBackgroundHelper_android_background android:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.udacity.akkisathe2.popmymovies_s1:backgroundTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.udacity.akkisathe2.popmymovies_s1:backgroundTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.udacity.akkisathe2.popmymovies_s2:backgroundTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.udacity.akkisathe2.popmymovies_s2:backgroundTintMode}</code></td><td></td></tr>
            </table>
            @see #ViewBackgroundHelper_android_background
            @see #ViewBackgroundHelper_backgroundTint
@@ -6214,7 +6214,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int ViewBackgroundHelper_android_background = 0;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#backgroundTint}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#backgroundTint}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 
@@ -6225,11 +6225,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.udacity.akkisathe2.popmymovies_s1:backgroundTint
+          @attr name com.udacity.akkisathe2.popmymovies_s2:backgroundTint
         */
         public static final int ViewBackgroundHelper_backgroundTint = 1;
         /**
-          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s1.R.attr#backgroundTintMode}
+          <p>This symbol is the offset where the {@link com.udacity.akkisathe2.popmymovies_s2.R.attr#backgroundTintMode}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 
@@ -6245,7 +6245,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.udacity.akkisathe2.popmymovies_s1:backgroundTintMode
+          @attr name com.udacity.akkisathe2.popmymovies_s2:backgroundTintMode
         */
         public static final int ViewBackgroundHelper_backgroundTintMode = 2;
         /** Attributes that can be used with a ViewStubCompat.

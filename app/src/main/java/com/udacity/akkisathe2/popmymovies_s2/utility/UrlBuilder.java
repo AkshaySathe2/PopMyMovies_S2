@@ -21,7 +21,7 @@ public class UrlBuilder {
     public static String sortByPopular="popular";
     public static String sortByTopRated="top_rated";
     public static String sortByFavourites="favourites";
-    public static String api_key="ffb27d728b00f6331cc5ea05f10af28d";
+    public static String api_key="<<api_key>>";
     private static String reviewUrl="reviews";
     private static String trailerUrl="videos";
 
@@ -42,7 +42,7 @@ public class UrlBuilder {
 
     public static String buildMovieDetailUrl(String movieId)
     {
-        //https://api.themoviedb.org/3/movie/209112/reviews?api_key=ffb27d728b00f6331cc5ea05f10af28d
+        //https://api.themoviedb.org/3/movie/209112/reviews?api_key=<<YOUR_API_KEY>>
         Uri.Builder builder = new Uri.Builder();
         builder.scheme("https")
                 .authority(baseUrl)
