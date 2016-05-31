@@ -75,7 +75,7 @@ public class Movie implements Parcelable {
     @SerializedName("revenue")
     private String revenue;
 
-    private Boolean isAddedToFavourites;
+    private Boolean isAddedToFavourites=false;
 
     private List<Review> reviews;
 

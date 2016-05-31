@@ -6,7 +6,7 @@
     android:background="#ffffff"
     android:clickable="true"
     android:orientation="vertical"
-    tools:context="com.udacity.akkisathe2.popmymovies_s2.fragment.MovieDetailFragment">
+    >
 
     <RelativeLayout
         android:id="@+id/rel_title"

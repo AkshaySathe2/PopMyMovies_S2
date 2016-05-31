@@ -21,7 +21,7 @@ public class UrlBuilder {
     public static String sortByPopular="popular";
     public static String sortByTopRated="top_rated";
     public static String sortByFavourites="favourites";
-    public static String api_key="<<api_key>>";
+    public static String api_key="ffb27d728b00f6331cc5ea05f10af28d";
     private static String reviewUrl="reviews";
     private static String trailerUrl="videos";
 

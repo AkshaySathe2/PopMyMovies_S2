@@ -1,4 +1,4 @@
-package com.udacity.akkisathe2.popmymovies_s2.fragment;
+package com.udacity.akkisathe2.popmymovies_s2.activity;
 
 import android.app.ProgressDialog;
 import android.content.ActivityNotFoundException;
@@ -7,15 +7,12 @@ import android.content.DialogInterface;
 import android.content.Intent;
 import android.net.Uri;
 import android.os.AsyncTask;
-import android.os.Bundle;
-import android.os.Parcelable;
-import android.support.v4.app.Fragment;
 import android.support.v4.content.LocalBroadcastManager;
 import android.support.v7.app.AlertDialog;
+import android.support.v7.app.AppCompatActivity;
+import android.os.Bundle;
 import android.util.Log;
-import android.view.LayoutInflater;
 import android.view.View;
-import android.view.ViewGroup;
 import android.widget.GridView;
 import android.widget.ImageButton;
 import android.widget.ImageView;
@@ -26,7 +23,6 @@ import android.widget.Toast;
 
 import com.google.gson.Gson;
 import com.squareup.picasso.Picasso;
-import com.udacity.akkisathe2.popmymovies_s2.MovieActivity;
 import com.udacity.akkisathe2.popmymovies_s2.R;
 import com.udacity.akkisathe2.popmymovies_s2.adapter.ReviewAdapter;
 import com.udacity.akkisathe2.popmymovies_s2.adapter.TrailerAdapter;
@@ -39,10 +35,10 @@ import com.udacity.akkisathe2.popmymovies_s2.utility.UrlBuilder;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 
-public class MovieDetailFragment extends Fragment {
+public class MovieDetailActivity extends AppCompatActivity {
+
     static Movie movie;
     static String movieId;
     Context mContext;
@@ -59,60 +55,41 @@ public class MovieDetailFragment extends Fragment {
     LinearLayout genre;
     GridView gridGenre;
 
-    public static MovieDetailFragment newInstance(Movie m) {
-        MovieDetailFragment fragment = new MovieDetailFragment();
-        movie = m;
-        return fragment;
-    }
-
-    public static MovieDetailFragment newInstance(String id) {
-        MovieDetailFragment fragment = new MovieDetailFragment();
-        movieId = id;
-        return fragment;
-    }
-
-    public MovieDetailFragment() {
-        // Required empty public constructor
-    }
-
     @Override
-    public void onCreate(Bundle savedInstanceState) {
+    protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-    }
-
-    @Override
-    public View onCreateView(LayoutInflater inflater, ViewGroup container,
-                             Bundle savedInstanceState) {
+        setContentView(R.layout.activity_movie_detail);
+        if (getIntent().hasExtra("movieId")) {
+            movieId = getIntent().getStringExtra("movieId");
+        }
         // Inflate the layout for this fragment
-        setHasOptionsMenu(false);
-        mContext = getContext();
-        view = inflater.inflate(R.layout.fragment_movie_detail, container, false);
-        title = (TextView) view.findViewById(R.id.txt_movie_title);
-        tagline = (TextView) view.findViewById(R.id.txt_movie_tagline);
-        overview = (TextView) view.findViewById(R.id.txt_movie_overview);
-        LinearLayout moviePosterDetails = (LinearLayout) view.findViewById(R.id.ll_movie_poster_details);
-        poster = (ImageView) view.findViewById(R.id.img_movie_poster);
+        mContext = getApplicationContext();
+        title = (TextView) findViewById(R.id.txt_movie_title);
+        tagline = (TextView) findViewById(R.id.txt_movie_tagline);
+        overview = (TextView) findViewById(R.id.txt_movie_overview);
+        LinearLayout moviePosterDetails = (LinearLayout) findViewById(R.id.ll_movie_poster_details);
+        poster = (ImageView) findViewById(R.id.img_movie_poster);
         movieYear = (TextView) moviePosterDetails.findViewById(R.id.txt_movie_year);
         voteAverage = (TextView) moviePosterDetails.findViewById(R.id.txt_movie_rating);
-        review = (RelativeLayout) view.findViewById(R.id.rel_reviews);
-        trailer = (RelativeLayout) view.findViewById(R.id.rel_trailers);
+        review = (RelativeLayout) findViewById(R.id.rel_reviews);
+        trailer = (RelativeLayout) findViewById(R.id.rel_trailers);
         adultIcon = (ImageView) moviePosterDetails.findViewById(R.id.img_adult);
-        addToFavourites = (ImageButton) view.findViewById(R.id.btm_img_add_to_favourites);
+        addToFavourites = (ImageButton) findViewById(R.id.btm_img_add_to_favourites);
         Log.v("MovieDetailFragment", "MovieId  =" + movieId);
-        //markAsFavourite=(TextView)view.findViewById(R.id.txt_mark_as_favourite);
+        //markAsFavourite=(TextView)findViewById(R.id.txt_mark_as_favourite);
 
-        //genre=(LinearLayout) view.findViewById(R.id.ll_genre_tags);
+        //genre=(LinearLayout) findViewById(R.id.ll_genre_tags);
 
-        /*gridGenre=(GridView)view.findViewById(R.id.grid_genre_tags);*/
+        /*gridGenre=(GridView)findViewById(R.id.grid_genre_tags);*/
 
         review.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 if (movie.getReviews().size() > 0) {
-                    AlertDialog.Builder dialog = new AlertDialog.Builder(getActivity());
+                    AlertDialog.Builder dialog = new AlertDialog.Builder(MovieDetailActivity.this);
                     dialog.setTitle("Reviews");
                     final ReviewAdapter adapter = new ReviewAdapter(
-                            getActivity(), movie.getReviews());
+                            MovieDetailActivity.this, movie.getReviews());
                     dialog.setAdapter(adapter, new DialogInterface.OnClickListener() {
 
                         @Override
@@ -131,10 +108,10 @@ public class MovieDetailFragment extends Fragment {
         trailer.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                AlertDialog.Builder dialog = new AlertDialog.Builder(getActivity());
+                AlertDialog.Builder dialog = new AlertDialog.Builder(MovieDetailActivity.this);
                 dialog.setTitle("Trailers");
                 final TrailerAdapter adapter = new TrailerAdapter(
-                        getActivity(), movie.getTrailers());
+                        MovieDetailActivity.this, movie.getTrailers());
                 dialog.setAdapter(adapter, new DialogInterface.OnClickListener() {
 
                     @Override
@@ -180,7 +157,6 @@ public class MovieDetailFragment extends Fragment {
             movie = savedInstanceState.getParcelable("movie");
             updateUI();
         }
-        return view;
     }
 
     @Override
@@ -210,7 +186,7 @@ public class MovieDetailFragment extends Fragment {
         @Override
         protected void onPreExecute() {
             super.onPreExecute();
-            dialog = new ProgressDialog(getContext());
+            dialog = new ProgressDialog(MovieDetailActivity.this);
             dialog.setMessage("Loading data Please wait...");
             dialog.show();
         }
@@ -318,3 +294,6 @@ public class MovieDetailFragment extends Fragment {
         }
     }
 }
+
+
+

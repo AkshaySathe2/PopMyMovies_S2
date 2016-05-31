@@ -6,10 +6,13 @@ import android.view.View;
 
 public class MovieActivity extends AppCompatActivity {
 
+    public static Boolean mTwoPane=false;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_movie);
+        mTwoPane=findViewById(R.id.fragment_movie_detail)!=null;
     }
 
 }

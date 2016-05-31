@@ -25,7 +25,9 @@ import android.widget.GridView;
 import android.widget.Toast;
 
 import com.google.gson.Gson;
+import com.udacity.akkisathe2.popmymovies_s2.MovieActivity;
 import com.udacity.akkisathe2.popmymovies_s2.R;
+import com.udacity.akkisathe2.popmymovies_s2.activity.MovieDetailActivity;
 import com.udacity.akkisathe2.popmymovies_s2.adapter.MovieAdapter;
 import com.udacity.akkisathe2.popmymovies_s2.controller.MovieController;
 import com.udacity.akkisathe2.popmymovies_s2.model.Movie;
@@ -54,6 +56,9 @@ public class MovieActivityFragment extends Fragment {
     private boolean isLoading;
     int visibleItemNumber = 0;
 
+    String currentMovieId="";
+    private int selectedPosition=0;
+
     public MovieActivityFragment() {
     }
 
@@ -64,15 +69,27 @@ public class MovieActivityFragment extends Fragment {
         mContext = getContext();
         movieList = new ArrayList();
         View rootView = inflater.inflate(R.layout.fragment_movie, container, false);
+
+
         Util.setSortByChoice(getContext(), UrlBuilder.sortByPopular);
         listMovie = (GridView) rootView.findViewById(R.id.grid_movie);
         listMovie.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
                 //MovieDetailFragment fragment=MovieDetailFragment.newInstance(movieList.get(position));
+                selectedPosition=position;
+                currentMovieId=movieList.get(position).getId();
                 MovieDetailFragment fragment = MovieDetailFragment.newInstance(movieList.get(position).getId());
                 FragmentTransaction fragmentTransaction = getFragmentManager().beginTransaction();
-                fragmentTransaction.replace(R.id.movieActivity, fragment).addToBackStack("MovieActivityFragment").commit();
+                if(MovieActivity.mTwoPane){
+                    fragmentTransaction.replace(R.id.fragment_movie_detail, fragment).addToBackStack("MovieActivityFragment").commit();
+                }else{
+                    Intent intent=new Intent(getActivity(), MovieDetailActivity.class);
+                    intent.putExtra("movieId",movieList.get(position).getId());
+                    getActivity().startActivity(intent);
+
+                }
+
             }
         });
 
@@ -98,6 +115,7 @@ public class MovieActivityFragment extends Fragment {
 
             }
         });
+
         if(savedInstanceState==null) {
             if (Util.isNetworkAvailable(getContext())) {
                 task = new FetchMovieData();
@@ -110,11 +128,43 @@ public class MovieActivityFragment extends Fragment {
             }
         }
         else{
-            Log.d("MovieActivityFragment","Was in on saved instance state");
-            movieList=savedInstanceState.getParcelableArrayList("movieList");
-            updateUI();
+            if(savedInstanceState.getParcelable("movie")==null) {
+                Log.d("MovieActivityFragment", "Was in on saved instance state");
+                movieList = savedInstanceState.getParcelableArrayList("movieList");
+                selectedPosition = savedInstanceState.getInt("selectedPosition");
+                //updateUI();
+
+                MovieAdapter adapter = new MovieAdapter(getContext(), movieList);
+                listMovie.setAdapter(adapter);
+                listMovie.setSelection(selectedPosition);
+                listMovie.smoothScrollToPosition(selectedPosition);
+                adapter.notifyDataSetChanged();
+                if(MovieActivity.mTwoPane) {
+                    currentMovieId=movieList.get(selectedPosition).getId();
+                    MovieDetailFragment fragment = MovieDetailFragment.newInstance(movieList.get(selectedPosition).getId());
+                    FragmentTransaction fragmentTransaction = getFragmentManager().beginTransaction();
+                    fragmentTransaction.replace(R.id.fragment_movie_detail, fragment).addToBackStack("MovieActivityFragment").commit();
+                }
+                if(dialog!=null)
+                    dialog.dismiss();
+            }else{
+                Movie m=savedInstanceState.getParcelable("movie");
+                MovieDetailFragment fragment = MovieDetailFragment.newInstance(m);
+                FragmentTransaction fragmentTransaction = getFragmentManager().beginTransaction();
+                if(MovieActivity.mTwoPane){
+                    fragmentTransaction.replace(R.id.fragment_movie_detail, fragment).addToBackStack("MovieActivityFragment").commit();
+                }else{
+                    Intent intent=new Intent(getActivity(), MovieDetailActivity.class);
+                    intent.putExtra("movie",m);
+                }
+            }
         }
         return rootView;
+    }
+
+
+    public void callActivity(){
+
     }
 
     @Override
@@ -123,6 +173,7 @@ public class MovieActivityFragment extends Fragment {
         if(movieList!=null)
         {
             outState.putParcelableArrayList("movieList", (ArrayList<? extends Parcelable>) movieList);
+            outState.putInt("selectedPosition",selectedPosition);
         }
     }
 
@@ -144,7 +195,14 @@ public class MovieActivityFragment extends Fragment {
                     }
                 }
             }
-            updateUI();
+
+            MovieAdapter adapter = new MovieAdapter(getContext(), movieList);
+            listMovie.setAdapter(adapter);
+            listMovie.setSelection(selectedPosition);
+            listMovie.smoothScrollToPosition(selectedPosition);
+            adapter.notifyDataSetChanged();
+            if(dialog!=null)
+            dialog.dismiss();
         }
     };
 
@@ -167,6 +225,7 @@ public class MovieActivityFragment extends Fragment {
             case R.id.action_sort_by_top_rated:
                 movieList.clear();
                 page = 1;
+                selectedPosition=0;
                 visibleItemNumber = 0;
                 Util.setSortByChoice(getContext(), UrlBuilder.sortByTopRated);
                 task = new FetchMovieData();
@@ -174,6 +233,7 @@ public class MovieActivityFragment extends Fragment {
                 return true;
             case R.id.action_sort_by_popular:
                 movieList.clear();
+                selectedPosition=0;
                 visibleItemNumber = 0;
                 page = 1;
                 Util.setSortByChoice(getContext(), UrlBuilder.sortByPopular);
@@ -182,6 +242,7 @@ public class MovieActivityFragment extends Fragment {
                 return true;
             case R.id.action_sort_by_favourites:
                 movieList.clear();
+                selectedPosition=0;
                 visibleItemNumber = 0;
                 page = 1;
                 Util.setSortByChoice(getContext(), UrlBuilder.sortByFavourites);
@@ -260,6 +321,13 @@ public class MovieActivityFragment extends Fragment {
         listMovie.setSelection(visibleItemNumber);
         listMovie.smoothScrollToPosition(visibleItemNumber);
         adapter.notifyDataSetChanged();
+        if(MovieActivity.mTwoPane) {
+            currentMovieId=movieList.get(selectedPosition).getId();
+            MovieDetailFragment fragment = MovieDetailFragment.newInstance(movieList.get(selectedPosition).getId());
+            FragmentTransaction fragmentTransaction = getFragmentManager().beginTransaction();
+            fragmentTransaction.replace(R.id.fragment_movie_detail, fragment).addToBackStack("MovieActivityFragment").commit();
+        }
+        if(dialog!=null)
         dialog.dismiss();
     }
 
